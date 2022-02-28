@@ -1,0 +1,1104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The anatomy of Urania practica or, a short mathematicall discourse; laying open the errors and impertinencies delivered in a treatise lately published by Mr. Vincent Wing, and Mr. William Leybourne, under the title of Urania practica. By Jeremy Shakerley philomath.</title>
+            <author>Shakerley, Jeremy, fl. 1651.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 87 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93028</idno>
+            <idno type="STC">Wing S2911</idno>
+            <idno type="STC">Thomason E1366_1</idno>
+            <idno type="STC">ESTC R209254</idno>
+            <idno type="EEBO-CITATION">99868140</idno>
+            <idno type="PROQUEST">99868140</idno>
+            <idno type="VID">169851</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93028)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169851)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 179:E1366[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The anatomy of Urania practica or, a short mathematicall discourse; laying open the errors and impertinencies delivered in a treatise lately published by Mr. Vincent Wing, and Mr. William Leybourne, under the title of Urania practica. By Jeremy Shakerley philomath.</title>
+                  <author>Shakerley, Jeremy, fl. 1651.</author>
+               </titleStmt>
+               <extent>[8], 37 [i.e. 39], [1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Brudenell,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Wing, Vincent. Urania practica.</note>
+                  <note>The last four pages are misnumbered.</note>
+                  <note>Annotation on Thomason copy: "may 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wing, Vincent, 1619-1668. --  Urania practica --  Early works to 1800.</term>
+               <term>Leybourn, William, 1626-1716 --  Early works to 1800.</term>
+               <term>Astronomy --  Early works to 1800.</term>
+               <term>Nautical astronomy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169851:1" rendition="simple:additions"/>
+            <p>THE ANATOMY OF Urania Practica.</p>
+            <p>OR, A ſhort Mathematicall Diſcourſe; Laying open the Errors and impertinencies delivered in a Treatiſe lately publiſhed by M<hi rend="sup">r</hi>. <hi>Vincent Wing,</hi> and M<hi rend="sup">r</hi>. <hi>William Leybourne,</hi> under the title of <hi>
+                  <g ref="char:V">Ʋ</g>rania Practica.</hi>
+            </p>
+            <p>
+               <hi>By</hi> Jeremy Shakerley <hi>Philomath.</hi>
+            </p>
+            <q>
+               <lg>
+                  <l>
+                     <hi>Tota ſtupet natura Deum, robuſtaque quamvis,</hi>
+                  </l>
+                  <l>
+                     <hi>Viribus in nihilo deficit aegra ſuis.</hi>
+                  </l>
+                  <l>
+                     <hi>Ars ſtupet, &amp; tantae ſpectans molimina dextrae</hi>
+                  </l>
+                  <l>
+                     <hi>Heret, &amp; ipſa ſuas damnat egena manus.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Nature's aſtoniſh't at her god, though faſt</l>
+                  <l>And far ſhe goe; her ſtrength is tir'd at laſt.</l>
+                  <l>To view theſe works, Art doth amazed ſtand,</l>
+                  <l>Doubts, and condemns her own untuter'd hand.</l>
+               </lg>
+            </q>
+            <p>LONDON: Printed by <hi>Thomas Brudenell,</hi> 1649.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:169851:2"/>
+            <pb facs="tcp:169851:2"/>
+            <head>To the Honourable <hi>Major Generall LAMBERT:</hi> The Author wiſheth Felicity.</head>
+            <opener>
+               <salute>Moſt Honoured Sir:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe few leaves more truſting to the worth of the ſubject they treat of, then the wor<g ref="char:EOLhyphen"/>thineſſe of their Author's performance, have made bold to become an object of your eye, and though ſmall in bulk, yet great in ſub<g ref="char:EOLhyphen"/>ſtance: Its winged ſubject hath given it occaſion to mount on high, and from the top of Art, to look down on the unarti<g ref="char:EOLhyphen"/>ficiall Fabricks of others, which would make us beleeve they are fixed in ſolid Orbs, and not ſubject to corruption: Yet may it be doubted, its high flight is endan<g ref="char:EOLhyphen"/>gered with precipices, which every where make the paſſage more difficult: And ſo much the rather, for that the vain confi<g ref="char:EOLhyphen"/>dence
+<pb facs="tcp:169851:3"/>of Artiſts in theſe days, hath drawn into the number of their adherents, others who take their Art upon truſt, which of how dangerous a conſequence it is, will in ſome meaſure appear in the following Diſcourſe. But I did not know any to whom I would more willingly, or could more juſtly preſume to Dedicate theſe the firſt fruits of my endeavours, then to your worthy ſelf; who to your many rare and ſingular vertues, have added the Star of Mathematicall knowledge, thereby to make your excellencies a perfect Con<g ref="char:EOLhyphen"/>ſtellation. Under the fortitude of whoſe favourable aſpect, this ſlender piece craves a ſhelter from the malevolent rayes of Detraction. Thus farre your celebrated goodneſſe hath drawn the hopes of him who is</p>
+            <closer>
+               <signed>
+                  <hi>The honourer of your Vertues,</hi> And <hi>Your Servant devoted,</hi> JER. SHAKERLEY.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169851:3"/>
+            <head>To the Mathematicall READERS.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He principall glory of the Mathematick Sciences, is their certainty whereby they are able to command the approba<g ref="char:EOLhyphen"/>tion of others, and impoſe upon their Adverſaries a neceſſity of favouring their Demonſtrations, when other Arts, built upon the experiments of former times, leave room for the refined conceits of others, who many times change and alter their dubious principles. But theſe with their owne materials have ſtrengthned their holds, and are of power to fruſtrate the deſigns of oppoſition. And of theſe the two corner<g ref="char:EOLhyphen"/>ſtones, <hi>Arithmetick</hi> and <hi>Geometry</hi> have this prehe<g ref="char:EOLhyphen"/>minence above other Arts, that they leave no hole to creep out at, no quirk for diſſent, but an everlaſting addition of new Inventions, to what before hath been happily de<g ref="char:EOLhyphen"/>monstrated. But <hi>Aſtronomy</hi> deriving her current from more abſtruſe &amp; hidden fountains, hath left a harder task to her Obſervers, to finde her out, and trace her through her curious Laborinth; and unleſſe learned in the other two, here moſt ſubject to fall into many abſurdities and untruths. So nice is <hi>Urania</hi> in the choice of her ſer<g ref="char:EOLhyphen"/>vants, and ſo unwilling to proſtitute her Virgin excellen<g ref="char:EOLhyphen"/>cies to the mercenary embraces of every vulgar Profeſſor.</p>
+            <p>And hence for the moſt part it fals out, that in theſe cu<g ref="char:EOLhyphen"/>rious ſpeculations, the more we deſire to know, the more we come to the knowledge of our own ignorance, our new ex<g ref="char:EOLhyphen"/>periments
+<pb facs="tcp:169851:4"/>informing us of the inſufficiency of ancient ſuppoſitions, and giving an example to our followers to handle our conceits, as we have done theirs that went be<g ref="char:EOLhyphen"/>fore us. For although what way ſoever we turn the eyes of our judgement, and from the beginnings draw down our cogitations upon each particular, we ſhall every where find evident teſtimonies of the divine omnipotency; and although that our minds by the Towning raptures of ſub<g ref="char:EOLhyphen"/>lime imaginations, exalt themſelves above the Spheres, and ſuffer not themſelves to be bounded with other limits then thoſe that circumſcribe the univerſe; yet when we enter into theſe ſacred contemplations, we find as much as we can behold, more then we can underſtand, theſe myſte<g ref="char:EOLhyphen"/>ries being too aenigmaticall for our dull apprehenſions, as this load of fleſh tries and clogs our immortall part in its aſpiring journey.</p>
+            <p>Notwithſtanding the moſt neceſſary care of worthy Ar<g ref="char:EOLhyphen"/>tiſts, hath ſcarcely in any age been wanting, and the di<g ref="char:EOLhyphen"/>vine <hi>Urania</hi> ſtill found thoſe who admired and cele<g ref="char:EOLhyphen"/>brated her excellencies, whoſe ſucceſſive labours have taught us how great a thing experience is, and what dan<g ref="char:EOLhyphen"/>ger there is in conformity to ancient rules. Little could be expected from them who were guided by ſo few; yet their performances were beyond expectation. More may be re<g ref="char:EOLhyphen"/>quired from our times, whoſe ſubſidiary knowledge is grea<g ref="char:EOLhyphen"/>ter. This laſt age (by the bleſſing of God) doth enjoy the benefit of more admirable and uſefull Inventions, then a<g ref="char:EOLhyphen"/>ny, or almoſt all before it, and ſtill new ones are added to the old, and the welcome tidings of Mathematicall novel<g ref="char:EOLhyphen"/>ties
+<pb facs="tcp:169851:4"/>daily delight us. And indeed what ſhall we mortals now deſpain of? within what bounds ſhall our wits be contained? Difficult, remote and envious things are now grown pervious to humane industry. We have ſeen the ſpots of the Sun, and its converſion about its own axis; we have ſeen the laterall Guardians of <hi>Saturn</hi> and <hi>Ju<g ref="char:EOLhyphen"/>piter,</hi> the various Phaſes of <hi>Mars,</hi> the horns of <hi>Venus</hi> and <hi>Mercury,</hi> the mountains and Seas of the <hi>Moon;</hi> we have ſeen the generation of Comets, the apparition and diſparition of new Stars amongst the Planetary Orbs; we have ſeen innumerable Cohorts of fixed Stars; yea, even the ſmall conſtellation of the Pleiades, beautified with divers lights impoſſible to be numbred; we have ſeen the Rainbow like colours of divers lucid Globes, and the motley outſides of the Dog-ſtar and <hi>Orion.</hi> O Hea<g ref="char:EOLhyphen"/>ven and Stars! how much hath our age triumphed over you! Neither doth our victory end here, ſtill new mira<g ref="char:EOLhyphen"/>cles adde to the number of the old, and no day paſſeth without a triumph.</p>
+            <p>Why then ſhall we ſubject our ſelves to the authority of the Ancients, when our own experience can inform us better? why do we not break their bands aſunder, and caſt their cords far from us? certainly the Ancients (were they now alive) would not condemn our choice. <hi>Ariſto<g ref="char:EOLhyphen"/>tle</hi> that referred the ſtudious in his time to <hi>Eudoxus</hi> and <hi>Calippus</hi> for ſatisfaction, could not diſlike our Ar<g ref="char:EOLhyphen"/>guments againſt the corruption of the viſible Heavens. <hi>Ptolomey</hi> that founded his Hypotheſis upon Obſerva<g ref="char:EOLhyphen"/>tions, would not be angry if our Obſervations perſwade
+<pb facs="tcp:169851:5"/>us to another hypotheſis then he hath conſtituted. <hi>Tycho Longomontanus</hi> &amp; <hi>Lansberge</hi> (unleſſe puft up with ſelf glory, or ſworn to contradiction) would not deny our demonſtration of the inſufficiency of their Theories. Laſt<g ref="char:EOLhyphen"/>ly, M. <hi>Wing,</hi> and M. <hi>Leybourn</hi> (if they be owners of that true worth which ought to be an inſeparable compa<g ref="char:EOLhyphen"/>nion of a Mathematician) will not ſtorm, when we ſhew them their Writings are ſubject to errour.</p>
+            <p>Nor is it indeed poſſible that one age, or one man ſhould perform all things requiſite in this Science. Many things are impoſſible ever to be found out, and many things re<g ref="char:EOLhyphen"/>ſerved to the diſcovery of after ages. How eaſily, and how juſtly may we apply the Propheticall words of ſententious <hi>Seneca</hi> to our preſent purpoſe:</p>
+            <q>
+               <l>— Venient annis</l>
+               <l>Seculae ſeris, quibus <hi>uraniae</hi>
+               </l>
+               <l>Vincula rerum laxet, &amp; ingens</l>
+               <l>Pateat mundus, Vitrumque novos</l>
+               <l>Detegat Orbes, nec fit nobis</l>
+               <l>Ultima Tellus.</l>
+            </q>
+            <p>But I have been more large and generall then for ſuch a ſmall Treatiſe. At your feet then (Mathematical Rea<g ref="char:EOLhyphen"/>ders, and my honoured Judges) I prostrate this my firſt. born: For it is the cenſure of you alone which I value; the popular voice, like other Agents, never acting beyond their proper ſphear of activity.</p>
+            <closer>
+               <signed>Your Servant JER. SHAKERLEY</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:169851:5"/>
+            <head>THE ANATOMIE OF <hi>
+                  <g ref="char:V">Ʋ</g>RANIA PRACTICA.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP. I.</hi> The occaſion of this Diſcourſe.</head>
+               <p>
+                  <seg rend="decorInit">I</seg> Am not ignorant, how dangerous a boldneſſe it is, to appear abroad in the world as an Antagoniſt, and how ſubject they are to be judged themſelves who would give judgement upon others, eſ<g ref="char:EOLhyphen"/>pecially upon thoſe whom worth or cuſtome hath inthroned in the good-likings of other men; and whoſoever whets his Pen againſt ſuch as theſe, is like to be more weakned with the batteries of Envie, then ſtrengthened with the fortifications of a good cauſe. For when once we have enſlaved our wits to any Author, and looke upon him with the eye of ſubjection, we are very hardly drawne from the preſſure of that yoake;
+<pb n="2" facs="tcp:169851:6"/>yea, and oftentimes we murmure and repine at thoſe, who ſhew us the way to cleer our ſelves of this burden, and free our judgements from captivity. If then I could prefer the ſloathfull ſecurity of My name before the truth, I ſhould rather have ſmothered theſe modeſt cri<g ref="char:EOLhyphen"/>ticiſms, and confined them to the chamber of my private thoughts, then in this cenſorious age, expoſe my ſelf to the cenſure of the world: for although I do beleeve that whatſoever I ſhall write here is undoubtedly true and certain, and I doubt not will of learned Readers be ap<g ref="char:EOLhyphen"/>proved; yet can I not promiſe to my ſelf the generall conſent of every Reader: for ſome there will be whom the ſpecious words and large promiſes of my Authors have deluded, and theſe are moſt likely to cal me obſtre<g ref="char:EOLhyphen"/>perous and impertinent, that after the worthy Labours of theſe famous men, and the ſum of their endeavours herein, I ſhould yet deſire a <hi>plus ultra,</hi> and manifeſt my boldneſſe and impudence, in that having but newly crept out of the limits of Child-hood, I dare bend my Pen againſt famous Artiſts of ſuch a continuance.</p>
+               <p>But it is the part of a ſlothfull timorouſneſſe, to be afraid of the raſh cenſure of the multitude, and it is doubtfull I ſhall not be ſo much commended for mode<g ref="char:EOLhyphen"/>ſty, as cenſured for want of boldneſſe, to be fearfull to reſtore the Truth to her proper Dignity, and cleer her nobleneſſe from being partaker in thoſe counterfeits, which paſſe abroad under her name. It is to be imagi<g ref="char:EOLhyphen"/>ned that <hi>Urania Practica</hi> hath found her favourites, and there want not thoſe, who have fixed their devotion on this new Deity: And I muſt confeſſe, when I heard the report of her comming, and ſaw the news of her ſo con<g ref="char:EOLhyphen"/>ſidently fly through the Britiſh Iſle, upon the paper<g ref="char:EOLhyphen"/>wings of ſeverall Almanacks, I had a good hope ſome extraordinary performance would have confirmed thoſe glorious reports, and upon the Theater of a <hi>Mathema<g ref="char:EOLhyphen"/>ticall Judgement,</hi> acted ſomething worthy thoſe <hi>Praelu<g ref="char:EOLhyphen"/>dia.</hi>
+                  <pb n="3" facs="tcp:169851:6"/>But when in <hi>January</hi> 1648/9. I received from my worthy and honoured friend, Maſter <hi>William Lilly,</hi> that ſo much expected piece, &amp; had with a greedy eye, ſurvei<g ref="char:EOLhyphen"/>ed the contents, the clouds of deſpair over-ſhadowed my thoughts, and involved my hopes in a ſable veſture, yea I could ſcarcely refrain from blaming my ſelf, that upon ſuch uncertain foundations as the popular voice had built my hopes to that height: for I did not onely fail of my expectation of a certain courſe whereby to attain a reaſonable perfection in Aſtronomical grounds and The<g ref="char:EOLhyphen"/>ories; but on the contrary, perceived ſcarcely any dreſ<g ref="char:EOLhyphen"/>ſing therein, which (if rightly conſidered) did not miſ<g ref="char:EOLhyphen"/>become the divine <hi>Urania.</hi> I expected a compound of the beſt ſimples that could be found in the Treaſuries of thoſe Authors, which Maſter <hi>Vincent Wing</hi> hath put in his Muſter-roll, recorded in the beginning of his <hi>Alma<g ref="char:EOLhyphen"/>nack,</hi> 1649. but finde that their errours are here renew<g ref="char:EOLhyphen"/>ed: all which I beheld with an eye, truly pittying ſuch ſtudious <hi>Tyro's,</hi> as underſtand onely Engliſh; for they are thoſe who are moſt ſubject to ſwallow theſe inſalu<g ref="char:EOLhyphen"/>brious baits, ſo deſtructive to a perfect proficiency in theſe Sciences. For the remedy whereof, and becauſe I knew no other from whom any ſuch performance might be expected, I adventured upon this task, and have here<g ref="char:EOLhyphen"/>in delivered to the eye of the world a detection of ſome the moſt notable miſtakes I conſidered in that Treatiſe: but I paſſe by many things worthy alſo to be noted, if my profeſſed brevity would grant me leave. What I have done, is done with ſuch reverence to the ſacred name of <hi>Urania,</hi> that I am confident I have not in the leaſt any way wronged the meaneſt of her favourites: And in re<g ref="char:EOLhyphen"/>gard my Authors are the firſt that have in Engliſh ad<g ref="char:EOLhyphen"/>ventured upon ſuch a ſubject, my tender Quill ſhall ſpare their infancy, whoſe errours otherwiſe merit to be vindicated with more ſeverity.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="4" facs="tcp:169851:7"/>
+               <head>
+                  <hi>CHAP. II.</hi> An errour in finding the Dominicall Letter and Epact in the Forraign Accompt perpetually, detected.</head>
+               <p>THough ſomething below the levell of our intended endeavours, it will not be amiſſe to begin with this <hi>Peccadillo,</hi> which muſt neceſſarily proceed either from want of care, or knowledge of the true manner of the Calenders Gregorian reformation; the explication whereof, I ſhall chuſe rather briefly to deliver from its beginning, then prefcribe to the Reader a rule he under<g ref="char:EOLhyphen"/>ſtands not.</p>
+               <p>Whereas the Julian yeer contained 365. dayes, ſix hours, and the Tropicall yeer, or time of the <hi>Sun's</hi> re<g ref="char:EOLhyphen"/>ſtitution to any point of the Zodiack, onely 365. dayes, 5. hours, and about 49. minutes, as we ſhall have occa<g ref="char:EOLhyphen"/>ſion to ſhew hereafter; it happened that by this defect of the Tropicall yeer, dilating it ſelf throughout every yeer, ſince the firſt eſtabliſhing this Accompt in the Church, hath in proceſſe of time, changed the places of the Equinoxes and Solſtices, and altered the time of the Paſchall ſolemnity: This defect having from the yeer of the <hi>Nicene</hi> Counſell 322. to the yeer of the Gregori<g ref="char:EOLhyphen"/>an Reformation, 1582. made an anticipation of ten dayes, which cauſed Pope <hi>Gregory</hi> the thirteenth to omit thoſe ten dayes, thereby repairing what was amiſſe, and alſo to provide for the future, that no ſuch anticipation ſhould be; which he hath thus performed. He ordered that from the 5. of <hi>October</hi> 1582. (at what time he omit<g ref="char:EOLhyphen"/>ted his ten dayes, making that day the 15<hi rend="sup">th</hi>) untill the yeer 1700. there ſhould be ten dayes added to the <hi>Juli<g ref="char:EOLhyphen"/>an</hi> Accompt; and from that yeer incluſive, every fourth Centenary of the yeers of our Lord, is onely of all the following Centenaries to be <hi>Biſſextile,</hi> the reſt of the
+<pb n="5" facs="tcp:169851:7"/>Centenaries onely common yeers of 365. dayes; where<g ref="char:EOLhyphen"/>by it fals out, the <hi>Gregorian</hi> Accompt, every 400. yeers gains three dayes of what the <hi>Iulian</hi> loſes. The differen<g ref="char:EOLhyphen"/>ces of the two Accompts in ſome ſucceeding Centenaries, we have here exhibited in this Table.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">
+                           <hi>An. Do<g ref="char:cmbAbbrStroke">̄</g>.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>ad. da</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>Anno Domini.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>Add days</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi> Anno dom.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>Ad da.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell role="label">From the 5. of <hi>October,</hi>
+                        </cell>
+                        <cell>1582.</cell>
+                        <cell>10.</cell>
+                        <cell cols="4"> </cell>
+                     </row>
+                     <row>
+                        <cell role="label" rows="6">From the 24 of <hi>February.</hi>
+                        </cell>
+                        <cell>1700.</cell>
+                        <cell>11.</cell>
+                        <cell>2500.</cell>
+                        <cell>17.</cell>
+                        <cell>3300</cell>
+                        <cell>23</cell>
+                     </row>
+                     <row>
+                        <cell>1800.</cell>
+                        <cell>12.</cell>
+                        <cell>2600.</cell>
+                        <cell>18.</cell>
+                        <cell>3400</cell>
+                        <cell>24</cell>
+                     </row>
+                     <row>
+                        <cell>1900.</cell>
+                        <cell>13.</cell>
+                        <cell>2700.</cell>
+                        <cell>19.</cell>
+                        <cell>3500</cell>
+                        <cell>25</cell>
+                     </row>
+                     <row>
+                        <cell>2100.</cell>
+                        <cell>14.</cell>
+                        <cell>2900.</cell>
+                        <cell>20.</cell>
+                        <cell>3700</cell>
+                        <cell>26</cell>
+                     </row>
+                     <row>
+                        <cell>2200.</cell>
+                        <cell>15.</cell>
+                        <cell>3000.</cell>
+                        <cell>21.</cell>
+                        <cell>3800</cell>
+                        <cell>27</cell>
+                     </row>
+                     <row>
+                        <cell>2300.</cell>
+                        <cell>16.</cell>
+                        <cell>3100.</cell>
+                        <cell>22.</cell>
+                        <cell>3900</cell>
+                        <cell>28</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Thus by omitting the intercalation in theſe yeers, the Dominical Letter and Epact, which depend on the num<g ref="char:EOLhyphen"/>ber of dayes in each yeer, come to be changed; and by reaſon of the former, the number of direction, and con<g ref="char:EOLhyphen"/>ſequently the movable Feaſts, cannot by my Authors rules be truly perpetually gathered; all which, with ſome other inconveniencies, had been here more fully inſiſted on, if we had not thought this that hath been ſaid ſufficient for the ingenious, whereby to correct and amend theſe imperfections; and that <hi>Origanus</hi> in the firſt part of his Introduction to his Ephemerides, hath ſaved our Pen that labour, which haſts to diſcoveries of further concernment.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="6" facs="tcp:169851:8"/>
+               <head>
+                  <hi>CHAP. III.</hi> The inequality of the Preceſſion of the Equinoctiall points examined.</head>
+               <p>WHat may be happy to <hi>Urania,</hi> and gratefull to her true and legitimate Favourites, we now adventure upon the <hi>Sun</hi> and <hi>Moons</hi> Motions. A large current of conſiderations doth charge us, and we are likely to have more matter, then convenience to proſecute it: yet ſhall my unwillingneſſe to trouble the Reader with more then is needfull for our preſent purpoſe, and my hope of a future fitter opportunity, to dilate my conceits upon this ſubject, prevail with the urgency of the matter, and confine my Diſcourſe to its intended limits.</p>
+               <p>The firſt occaſion that invites our Pen to conſider here<g ref="char:EOLhyphen"/>of, is given by our Authors, <hi>pag.</hi> 52. where mention is made of a mean and true Equinox, in theſe words: <q>
+                     <hi>So ſhall you have the true motion of the Sun,</hi> ab Aequinoctio vero, <hi>for in theſe tables, the Sun's mean motion is reck<g ref="char:EOLhyphen"/>oned from the true Equinox, and not from the mean.</hi>
+                  </q> Whereby we may gather, that our Authors admit of an inequality of the Preceſſion of the Equinoctial points: The manner whereof, with the cauſe of its admiſſion in<g ref="char:EOLhyphen"/>to Aſtronomy; and laſtly, the validity thereof, (becauſe none of theſe are by our Authors ſo much as touched) it will not be inconvenient here in as brief a way as may be to deliver.</p>
+               <p>After that noble Dane <hi>Tycho Brahe</hi> had to the glory of Art, and joy of Artiſts, with incredible pains and dili<g ref="char:EOLhyphen"/>gence, perfected that elaborate table of the fixed Stars, and rectified it to his own time, a further and neceſſary care of perpetuating it, induced him to conſider what helps might be drawn from ancient Obſervations to this purpoſe; and perceiving by thoſe accounts that were ta<g ref="char:EOLhyphen"/>ken
+<pb n="7" facs="tcp:169851:8"/>of their places, firſt by <hi>Hipparchus,</hi> afterwards by <hi>Ptolomey, Albategnius, Arzabel, Copernicus,</hi> and ſome others, that they had not onely motions, but unequall motions, and inconſtancy in their latitudes, in ſeverall ages; he was forced to deviſe ſome way whereby theſe motions might be regulated, to prove conſentaneous to the obſervations of all ages. The Theory of this inequa<g ref="char:EOLhyphen"/>lity is according to the famous Aſtronomer, <hi>Chr. S. Lon<g ref="char:EOLhyphen"/>gomontanus,</hi> in this manner.</p>
+               <figure>
+                  <figDesc>two concentric circles inscribed with several labeled angles</figDesc>
+                  <head>
+                     <hi>Longomontanus</hi> The<g ref="char:EOLhyphen"/>ric. lib. 1.</head>
+               </figure>
+               <p>Let A be the Pole of tke Eclip<g ref="char:EOLhyphen"/>tick, BC that part of the Arctick circle of the Ecliptick, which the Pole of the earth in B hath run, by its equall motion, upon the center of the Ecliptick, ſince the Creation: This Arch meaſures alſo the Preceſſion of the Equi<g ref="char:EOLhyphen"/>noxes, and progreſſive motion of the fixed Stars; BA is 23. degr. 42. min the Zodiacks mean obli<g ref="char:EOLhyphen"/>quity, DGE the ſmall circle re<g ref="char:EOLhyphen"/>gulating the obliquity of the Zodiack, AD its radius, 10. min. 53. ſec. By which it appears, both how the Zodiack changeth its obliquity, and alſo how the Equinoctiall points, and conſequently every ſeverall point in the Zo<g ref="char:EOLhyphen"/>diack do inequally anticipate: for when the Pole of the Aequator, which is carried in the circle EDG, is at E or G, the obliquity is in its mean deviations, and is equall to AB, 23. degr. 42. min. But the equation of the Equi<g ref="char:EOLhyphen"/>noxes is the greateſt, GBA 27. min. 5. ſec. and is to be ſubſtracted at G, added at E; wnen the Pole of the Ae<g ref="char:EOLhyphen"/>quator is at D, the obliquity is leaſt, and is equall to DB, 23. degr. 31. min. 7. ſec. but when the Pole of the Aequator is at F, the obliquity B F is greateſt, and is 23. degr. 52. min. 53. ſec. and in both theſe caſes, there is no aequation of the Equinoxes, by reaſon of the coin<g ref="char:EOLhyphen"/>cidence
+<pb n="8" facs="tcp:169851:9"/>of the lines BA and BG. This is the artifice <hi>Longomontanus</hi> hath uſed to ſatisfie appearances with, which if we ſhould Phiſcally conſider, I doubt we ſhould finde it more ingenuous then true; for it is ſcarcely tole<g ref="char:EOLhyphen"/>rable for any Aſtronomers to deviſe circles and imagi<g ref="char:EOLhyphen"/>nary motions, where with to fill the heavens, and with<g ref="char:EOLhyphen"/>draw the eye of man from a perfect conſideration of the wiſdome and power of his Creator, which beſt appears in the ſimplicity and uniformity of theſe Coeleſtiall eſ<g ref="char:EOLhyphen"/>ſences: yet might this <hi>Hypotheſis</hi> have been allowed, yea highly commended, if any good to <hi>Astronomy</hi> had come thereby, more then a needleſſe multiplication of uncer<g ref="char:EOLhyphen"/>tainties. We will conſider in a few words the validity and neceſſity of this <hi>Hypotheſis,</hi> to perform what it pro<g ref="char:EOLhyphen"/>miſeth.</p>
+               <p>Of the neceſſity hereof, ancient obſervations can give us no certainty; for from <hi>Proclus</hi> to our times, for above a thouſand years, the Aequinoctiall points have made a certain and equall Preceſſion, agreeable to that rule of motion which <hi>Timocharis</hi> and <hi>Hipparchus</hi> obſerved a<g ref="char:EOLhyphen"/>bove 1800. yeers agoe, if we onely except <hi>Ptolomey:</hi> Therefore if any Circulation more then annuall and di<g ref="char:EOLhyphen"/>urnall (if thoſe be to be admitted) have befaln to the Poles of the aequator, whereby it hath been ſo enormi<g ref="char:EOLhyphen"/>ouſly removed from its ſcituation, it was betwixt the times of <hi>Hipparchus</hi> and <hi>Ptolomey,</hi> in the ſpace of leſſe then three hundred yeers, and was again reſtored in the time betwixt <hi>Ptolomey</hi> and <hi>Preclus,</hi> in other three hun<g ref="char:EOLhyphen"/>dred yeers: Wherefore without injury we may doubt of the certainty of <hi>Ptolomies</hi> obſervations; and the rather, for that he himſelf ſeems to imply as much, by theſe words.</p>
+               <p>
+                  <q>
+                     <hi>Non in tropicis tantum Obſervation bus, ſed &amp; in Ae<g ref="char:EOLhyphen"/>quinoctiabus error accidere po<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eſt, qui ad quartam unius diei partem ſe extendat: Quod ſi <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nim in</hi> 3600 <hi>tantum particula</hi> (as if that were little or nothing) <hi>Aequatoris
+<pb n="9" facs="tcp:169851:9"/>ſitus, aut Instrumentis diviſio, arecta raratione deficiat, illam in Latitudine ſive Decliatione ac</hi> ☉ <hi>ad aequatorem acceſſu ad aequabit quarta circiter unius gradus pars, in Zodiaco &amp; Longitudine, &amp;c. Praeterquam quod &amp; ma<g ref="char:EOLhyphen"/>jus erratum eſſe ſoleat ſi per instrumenta fiant Obſerva<g ref="char:EOLhyphen"/>tirnes, quae non illarum tempore exquiſite poſitae ſunt ſed iam olim ita constituta, ut diu firmata lapſu temporum tandem commoveantur ac in ſitu deficiant.</hi>
+                  </q> This and more, <hi>Ptolom. Almag. lib.</hi> 3 <hi>cap.</hi> 2. How ſandy a foun<g ref="char:EOLhyphen"/>dation his Obſervations are, whereon to build <hi>Astronomy,</hi> eſpecially ſeeing they diſagree from others, may by his own words beſt be gathered.</p>
+               <p>He that deſires to ſee a more full confutation of this inequality, may have it in <hi>Phocylides</hi> his <hi>Examen Astro<g ref="char:EOLhyphen"/>nom<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ae Lansbergianiae,</hi> who from page 38. to page 63. he cleerly evinceth the ſame, from all the Obſervations of Equinoxes, had by the beſt <hi>Astronomers</hi> in every Age, and proveth a conſtant quantity of the Tropicall yeers in all Ages. A ſhort <hi>Synopſis</hi> whereof, we had here pre<g ref="char:EOLhyphen"/>ſented the Reader with, but that it would grow beyond our intentions; and that if the diſpoſer of all our actions grant me ability and conveniency to proſecute the ſer<g ref="char:EOLhyphen"/>vice of <hi>Urania,</hi> I may hereafter both enlarge and correct my preſent thoughts upon this ſubject.</p>
+               <p>The learned <hi>Kepler,</hi> pag. 27. <hi>Prec. tab; Rudolph.</hi> doubts not to aſſert, that there hath never been any other obli<g ref="char:EOLhyphen"/>quity of the Zodiack, then what is now, <hi>viz.</hi> 23. degr. 31. min. 30. ſec. or by reaſon of his diminution of the <hi>Sun's</hi> paralax, 23. degr. 30. min. 30. ſec. or conſequent<g ref="char:EOLhyphen"/>ly any inequality of the Preceſſion of the Equinoctiall points, and affirms he can demonſtrate it; but methinks it is too manifeſt an injury to the Ancients to deny the one, ſo conſtantly evinced from their obſervations. But we muſt ever look with an indulgent eye upon that wor<g ref="char:EOLhyphen"/>thy man, whole <hi>Astronomicall</hi> performances do ſuffici<g ref="char:EOLhyphen"/>ently make known his worth, and memorize him to Po<g ref="char:EOLhyphen"/>ſterity.
+<pb n="10" facs="tcp:169851:10"/>It is not one Age, much leſſe one man, that is able to reſtore <hi>Aſtronomy:</hi> His ſetting down five forms hereof in his <hi>Rudolphine</hi> Tables, ſhew the copiouſneſſe of his wit; his chooſing of none, manifeſt the penury and uncertainty of former Obſervations. And ſurely theſe things, with many more, lye hidden in the Pandects of Poſterity, not to be diſcloſed, untill God, the arbiter of Ages, ſhall open this eternall book, and diſcloſe the ſe<g ref="char:EOLhyphen"/>crets hereof to mortals.</p>
+               <p>That noble French-man <hi>Iſmael Bullialdus,</hi> the lateſt reſtorer of <hi>Aſtronomy,</hi> hath in his <hi>Aſtronomia Philolaica,</hi> followed <hi>Longomontanus</hi> in the obliquity of the Zodiack, but rejects the aequation of the Equinoxes, for theſe rea<g ref="char:EOLhyphen"/>ſons.</p>
+               <p>Firſt, there are no obſervations of the Ancients, which gives a ſufficient exactneſſe in the times of the Equinox<g ref="char:EOLhyphen"/>es, or places of the fixed Stars, whereupon to build ſuch a fabrick of turbination, and that it were raſhneſſe in a<g ref="char:EOLhyphen"/>ny to attempt it.</p>
+               <p>Secondly, no circular revolution in the Heavens, ad<g ref="char:EOLhyphen"/>mits in its whole circumference, more inequalities then one, being ſlow in the one ſemicircle, ſwift in the other; but if we admit this inequality of the Preceſſion of the Equinox, the ſimple motion is many times intended and remitted: But in other revolutions, intended but once, and remitted no oftner.</p>
+               <p>Thirdly, ſo ſmall a difference is there found in diſtinct intervals of time, that it cannot be attributed to any true aod naturall motion, but with great boldneſſe and teme<g ref="char:EOLhyphen"/>rity, whereby we impudently faſten upon the Heavens, the fictions and Chymera's of our own imperfect in<g ref="char:EOLhyphen"/>tellect.</p>
+               <p>Fourthly, that body which is furtheſt diſtant from the center of the World, would be immovable, which yet not<g ref="char:EOLhyphen"/>withſanding ought to partake of motion, as wel as other bodies which move obout the <hi>Sun,</hi> although the motion
+<pb n="11" facs="tcp:169851:10"/>be very ſlow, by reaſon of its immenſe diſtance from the Center, and the amplitude of the ſpace in which it moves; but why ſhould other bodies move, and the whole Syſteme of fixed Stars remain unmovable? every body placed about the Center of the World ought to have a motion about that, otherwiſe it would be a ſtran<g ref="char:EOLhyphen"/>ger to nature, and no partaker thereof, it keeping all things in motion, and not ſuffering them to be idle.</p>
+               <p>Fiftly, we ought not to think that the fixed Stars have an apparent progreſſive motion, according to the order of the Signs; for that cauſe alone, becauſe the fixed Stars and the Equinoctiall points have a ſlow motion upon the terreſtriall Poles, in antecedence of the Signs: For although in reſpect of the fixed Stars, ſuch an <hi>Hypotheſis</hi> might be true, becauſe there is no exteriour body diverſ<g ref="char:EOLhyphen"/>ly proved, to which the motion of the fixed Stars may be ſenſibly compared; yet is it not to be admitted, becauſe it cannot ſtand with the Planets motions; yet might it ſtand, if the <hi>Sun</hi> alone did appear: for by the annuall motion of the Poles of the Earth, the <hi>Sun,</hi> which then would not be ſuppoſed to run his annuall motion through the Zodiack, would manifeſt his acceſſe and re<g ref="char:EOLhyphen"/>ceſſe; but the Planets would be ſeen in the circle of Al<g ref="char:EOLhyphen"/>titudes, ſubject to irregular deviat ons, which neverthe<g ref="char:EOLhyphen"/>leſſe is not: Therefore this <hi>Hypotheſis</hi> were poſſible, were there but one Planet; but there being more, it is not poſſible, nor ought to be admitted.</p>
+               <p>Sixtly, this Argument is drawn <hi>a ſimili;</hi> we ſee in the <hi>Moon,</hi> a certain direction of her parts to the Earth, it is therefore likely that there is alſo direction of the Earths parts to the <hi>Sun,</hi> and that their axes retain alwayes the ſame poſiture, the one to the other, without any turbina<g ref="char:EOLhyphen"/>tion of either.</p>
+               <p>Theſe are the Arguments which the learned <hi>Bullial<g ref="char:EOLhyphen"/>dus, lib.</hi> 5. <hi>cap.</hi> 2. <hi>Astron. Philol.</hi> hath brought for the diſ<g ref="char:EOLhyphen"/>ſolution of this inequality, which I have here preſented
+<pb n="12" facs="tcp:169851:11"/>to the Reader in the ſame manner that he hath deliver<g ref="char:EOLhyphen"/>ed them: which though ſome of them vary from my preſent conceits, yet do the reſt notably fortifie my opi<g ref="char:EOLhyphen"/>nion. Adde to theſe what <hi>Bullialdus</hi> hath demonſtrated concerning the perpetuall equality of the Tropicall yeers, and I would fain ſee how the Authors of <hi>Urania Practica</hi> will diſprove them. But ſuch is their want of conſideration, they have not ſufficiently followed their own Theory herein; and though admitting of this in<g ref="char:EOLhyphen"/>equality, yet have given no rules or tables how to obtain it. The luſtre of <hi>Urania</hi> hath (it may be) dazled their eyes, and the high flight of their Pen hath left their judgements behinde it; ſo that we may juſtly wonder what concert, whether the deſire of being ſerviceable to <hi>Urania,</hi> rr enobling their names, hath drawn them to be actors upon the publick ſtage, where every judicious Spectator may diſcern their inſufficiency.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHAP. IIII.</hi> Of the <hi>Sun</hi> and <hi>Moons</hi> Tables.</head>
+               <p>THe next thing in order we ſhould take notice of, is the <hi>Sun</hi> and <hi>Moons</hi> tables, and hereof we can ſay lit<g ref="char:EOLhyphen"/>tle, becauſe our Authors have ſaid nothing, they onely affording us <hi>Epochaes</hi> for ſome few yeers, without any ſufficient rule whereby to perpetuate them. For thoſe annuall motions by them ſet down in the end of <hi>page</hi> 65. cannot be perpetually conſonant to their own Rule, un<g ref="char:EOLhyphen"/>leſſe they will with us deny the inequall Preceſſion of the Equinoctiall points, which their own words (men<g ref="char:EOLhyphen"/>tioned in the precedent Chapter) do oppoſe.</p>
+               <p>Yet what we can gather from the Tables themſelves, and our Authors preſcriptions for the uſe of them, we will here briefly deliver. Our Authors have in the Table of
+<pb n="13" facs="tcp:169851:11"/>the Suns equations, followed the Theorie of <hi>Longomon<g ref="char:EOLhyphen"/>tanus,</hi> or ſome equivolent thereto (for there are divers) onely a little, though almoſt inſenſibly increaſing the Eccentricity of the Sun, making the proportion of the radius of the Suns orbe, to the radius of his epicycle as is 100000. to 3577. to which Eccentricity in that hypo<g ref="char:EOLhyphen"/>theſis their equations of the Sun agree. But for what reaſon they have made this change themſelves doe not ſhow, nor can I conjecture. In the Tables of the Moons equations they have followed <hi>Argol,</hi> a man very labori<g ref="char:EOLhyphen"/>ous in calculations, but one who hath not to my know<g ref="char:EOLhyphen"/>ledge given any reaſon for what he hath done. He hath omitted the variation of the Moone, induced thereto as he ſaith by Obſervations. I will not queſtion his doings, becauſe I know not what Obſervations he uſed, but cer<g ref="char:EOLhyphen"/>tainly if there had not been a neceſſity for it, <hi>Tycho</hi> had never retained it into the Theory of the Moone, nor had it been confirmed by the after doings of <hi>I ongemontanus, Kepler,</hi> and the induſtrious and expert <hi>Bullialdus,</hi> eſpe<g ref="char:EOLhyphen"/>cially it cauſing ſo great a difference in the Moones place, extending it ſelfe to 40 min. 30 ſec. according to <hi>Tycho,</hi> but according to <hi>Kepler</hi> a fourth part more. And although <hi>Keplers</hi> variation may be juſtly thought too bigge, notwithſtanding he ſeems to deduce it from Phy<g ref="char:EOLhyphen"/>ſicall and Archetypicall demonſtrations, which he ſo much affected, yet in a Mathematicall eye, which at<g ref="char:EOLhyphen"/>tends preciſeneſſe, the variation is not altogether con<g ref="char:EOLhyphen"/>temptible.</p>
+               <p>In the latitude of the Moon, our Authors have meerly followed <hi>Lansberge,</hi> and together with him rejected the inequality of motion in the Moones Nodes; of which I will nor diſpute, the demonſtration thereof depending upon ſuch dubious Principles as Authors are not ſatisfi<g ref="char:EOLhyphen"/>ed thereof. <hi>Tycho</hi> making the period of this inequality menſtruall (with whom herein <hi>Argol</hi> and <hi>Bullialdus</hi> al<g ref="char:EOLhyphen"/>ſo agre) <hi>Kepler</hi> annuall, yet all ſince <hi>Tycho</hi> admitting
+<pb n="14" facs="tcp:169851:12"/>thereof, excepting onely <hi>Lansherg,</hi> of whoſe corruption and depravation of ancient Obſervations, ſo wreſting them to his purpoſe, he that is not ſatisfied may finde him ſufficiently characterized by <hi>Phocylides</hi> in his fore<g ref="char:EOLhyphen"/>mentioned booke. Thus from the fragments of broken Authors have our Authors patcht up their Tables of the Luminaries motions, which, however they will be ſuffi<g ref="char:EOLhyphen"/>cient to repreſent Coeleſtiall Obſervations, I much doubt and am fearfull that our Authors have done the divine <hi>Vrania</hi> wrong in attiring her ſimple excellence in ſuch a particoloured veſture.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>CHAP. V.</hi> Whether the ſecond inequalitie of the Moon have de<g ref="char:EOLhyphen"/>pendance of the Sunnes mean or true and apparent place.</head>
+               <p>BY the quality of that table of the Moones equations, our Authors have ſet downe, occaſion is given me to imagine they have therein followed a Theorie equivo<g ref="char:EOLhyphen"/>lent to that of <hi>Copernicus, viz,</hi> a double Epicycle, the circumference of the one carrying the Center of the o<g ref="char:EOLhyphen"/>ther: Yet however, the two inequalities, which are by <hi>Copernicus</hi> attributed to theſe Epicycles, are here by our Authors digeſted into one Table, which without queſti<g ref="char:EOLhyphen"/>on were of great concernment to him that deſires ſpee<g ref="char:EOLhyphen"/>dineſſe in calculation, if the Artiſt could be aſſured of its exactneſſe, and agreement with the Heavens, and thoſe legitimate and Phyſicall Theories which may be thence deduced. But whereas it appeares by the Pre<g ref="char:EOLhyphen"/>cepts which guide us to the uſe of this Table, that the mean diſtance of the Luminaries is one of the ſteps wher<g ref="char:EOLhyphen"/>by we attain the Moons equation, we may (and not with<g ref="char:EOLhyphen"/>out juſt cauſe) ſuſpect it of error.</p>
+               <pb n="15" facs="tcp:169851:12"/>
+               <p>It is true, that in thoſe Theories of the Planets which were uſed before <hi>Tycho</hi> had happily confuted the ſolidi<g ref="char:EOLhyphen"/>ty of Caeleſtiall Orbs, there might be ſome appearance of reaſon why the Centers of thoſe ſolid Spheres, rather then the Centers of the eccentricke Circles ſhould re<g ref="char:EOLhyphen"/>gulate thoſe other inequalities which depended there<g ref="char:EOLhyphen"/>on, they being ſuppoſed in that age not imaginary, but reall points, and therefore ſufficient whereon to build a connexion of moſions. But after that <hi>Tycho</hi> had by the helpe of his exact Inſtruments, found the exiſtence of temporary and fading Lights, within that Circuit, which was ſuppoſed to be free from generation and corrupti<g ref="char:EOLhyphen"/>on, and thereby ſolidly refuted the ſolidity of thoſe Orbs and Spheres, ſo laboriouſly demonſtrated by <hi>Pto<g ref="char:EOLhyphen"/>lemie, Proclus, Peurbachius,</hi> and others; this diſcloſure gaue the minde liberty to thinke of more rational wayes then the old multiplicity of Circles and Motions, where<g ref="char:EOLhyphen"/>by to ſalve caeleſtiall appearances. And hereby it came to be known, that the Cauſes of Motions were meerly Phyſicall, and dapended not upon the variety of Orbs, but followed that ſimple and uniforme courſe Nature had aſſigned them, and reſpected not thoſe imaginary Centers which prudent Antiquity had for want of other helpes deviſed for them; but the very body of the Sun, the fountaine of Motion and common node of all their Orbs. Why then the Moon (which though a ſecondary Planet, yet hath relation to the Suns courſe) ſhould re<g ref="char:EOLhyphen"/>ceive the Lawes of her <hi>extra-ſyſygiall</hi> inaequality from the Suns mean motion I cannot ſee. Theſe reaſons will evince she contrary.</p>
+               <p n="1">1. The mean motion of the Sun, as alſo of any other Planet, is not in nature, but onely deviſed to regulate thoſe exorbitances and deviations from equality, to which their apparent motions are ſubject.</p>
+               <p n="2">2. Obſervations teſtifie that the longeſt line of every Primary Theory, which exactly biſects the orbe into
+<pb n="16" facs="tcp:169851:13"/>two ſemicircles, equall in the quantity and celerity of the ſame parts, paſſeth by the center of the Sun, in which the Aphelian lines of the primary Planets concur.</p>
+               <p n="3">3. The orbite of every primary Planet is interſected by the Eclipticke in places oppoſite by the center of the Sun, and not by any point without it.</p>
+               <p n="4">4. The fountaine of motion, and the generall antece<g ref="char:EOLhyphen"/>dent to the particular relative inequalities of the Pla<g ref="char:EOLhyphen"/>nets, ought rather to be in the moſt excellent body then any where without it; for theſe reaſons: firſt, becauſe the <hi>moving force</hi> cannot reſide in any Mathematicall point (ſuch as this is imagined to be) but requires a bo<g ref="char:EOLhyphen"/>dy the more fully to exerciſe his operating power. Se<g ref="char:EOLhyphen"/>condly, it is moſt cnnſentaneous to reaſon, that the mov<g ref="char:EOLhyphen"/>ing force ſhould be in the Center of the world (where it is evident the Sunne is) there being reſt in the ſuperfi<g ref="char:EOLhyphen"/>cies or ſphere of the fixed Stars and motion in the in<g ref="char:EOLhyphen"/>termediate places.</p>
+               <p n="5">5. The cauſe why <hi>Copernius</hi> and <hi>Tycho</hi> ſuppoſed the two Centers, <hi>viz.</hi> of the Orbe, and of the Eccentrick to be different things in themſelves, is not ſufficiently Mathematicall, they being drawn hereto by the deſire of making their Hypotheſes equivalent to thoſe of <hi>Ptolo<g ref="char:EOLhyphen"/>mie.</hi> But it was not neceſſary to follow the ſteps of <hi>Pto<g ref="char:EOLhyphen"/>lomie</hi> ſo diligently; for <hi>Ptolomie</hi> made not every part of his Hypotheſis from obſervations, but grounded many things upon a fore-conceived opinion, that the motions of the Planets were equall through every portion of their own circles, which Obſervations do ſufficiently evince to be untrue, as may appear by famous <hi>Kepler</hi> in his learned Comentaries of the motions of <hi>Mars.</hi>
+               </p>
+               <p>To theſe reaſons I may adde alſo, the continued Ob<g ref="char:EOLhyphen"/>ſervations of <hi>Tycho</hi> in Eclipſes, which cleer the <hi>Moon</hi> of any ſecondary inequality at the time of Defect, which is the true, not mean <hi>Syzigia</hi> of the Luminaries. But to this I cannot impute any great force, the difference be<g ref="char:EOLhyphen"/>ing
+<pb n="17" facs="tcp:169851:13"/>ſo little, as it is hardly to be diſtinguiſhed from thoſe many irregularities, which attend on the propinquity of the <hi>Moon</hi> to the Earth, and of us in theſe Nothern Regi<g ref="char:EOLhyphen"/>ons, by reaſon of the great obliquity of our Sphear more perceived. Nor can we as yet think the manifold moti<g ref="char:EOLhyphen"/>ons of this inconſtant <hi>Torrella,</hi> ſo throughly known as we can for the preſent build any certainty hereon. I doubt not but that <hi>Aſtronomia Brittannica</hi> (now by the bleſſing of God almoſt brought to perfection) will ſhortly take away many doubts herein, which have hi<g ref="char:EOLhyphen"/>thereto puzled divers Artiſts: And I doubt not but I ſhall diſcover ſome things concerning the <hi>Moons</hi> motions, which may be uſefull for <hi>Astronomers</hi> in this ſubject, and more rationall then thoſe impertinencies our Authors have here delivered; for they are out of all poſſibility of being excuſed, that in ſuch a cleer Sun-ſhine, will impudently adventure to ſet out their dim Lanthorn for a guide to the young Practitioner, through theſe my<g ref="char:EOLhyphen"/>ſterious Laborinths, eſpecially ſuch a worthy Lumina<g ref="char:EOLhyphen"/>ry as <hi>Kepler,</hi> having long ſince put all out of doubt, and taught Truth to move in her own Orb, not impedited by the adventitious remora's of humane fancy.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>
+                  <hi>CHAP. VI.</hi> A demonſtrative examination of our Authors Tables of Eclipſes.</head>
+               <p>WE now come to the touch ſtone of our Authors judg<g ref="char:EOLhyphen"/>ment, and will (by God's help) lay open thoſe many abſurdities which would follow, ſhould we admit of our Authors Tables, This ſpeculation is not ordinary for obvious to every young Practitioner; yea, the intri<g ref="char:EOLhyphen"/>cacies hereof have entangled many profounder Artiſts then either Maſter <hi>Wing,</hi> Maſter <hi>L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ourn,</hi> or my Self,
+<pb n="18" facs="tcp:169851:14"/>few of thoſe many Authors <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi rend="sup">ch</hi> to this day have appeared the publick Champions of <hi>Urania,</hi> have had a full know<g ref="char:EOLhyphen"/>ledge hereof, excepting <hi>Kepler,</hi> the late <hi>Ballialdus,</hi> and the noble genius of our worthy Country-man, Maſter <hi>Jeremy Horrox,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, from whoſe remains I have gathered the moſt of what I ſhall write in this Chapter.</p>
+               <p>Thoſe who have preſumed of their own ſufficiency, to be able to demonſtrate thoſe dimenſions which are re<g ref="char:EOLhyphen"/>quiſite for the calculation of Eclipſes, have uſed thereto a Diagram, ſaid to be invented by <hi>Hipparchus,</hi> which they have ſeverally commented on: Amongſt the reſt, the late famous <hi>Lansberge</hi> hath in his <hi>Uranometrie</hi> made a large diſcourſe thereof; but ſo ſimply, as he may be a<g ref="char:EOLhyphen"/>ſhamed to ſpend thoſe braſts upon ſo inſufficient a piece. Yet hath his greateſt fault been, that he hath not fitted his numbers to thoſe Theoremes or Elements in his <hi>Ura<g ref="char:EOLhyphen"/>nometrie,</hi> as by him that will compare his numbers with the following Diagram, may be ſeen. But the like can<g ref="char:EOLhyphen"/>not ſo well be ſaid of <hi>Copernicus, Tycho, Longomontanus,</hi> &amp;c. by whom it is likely this demonſtrative way was ra<g ref="char:EOLhyphen"/>ther omitted then not conceived: for they perceiving their Obſervations not to anſwer fully the rigid Theo<g ref="char:EOLhyphen"/>remes hereof, took more care to ſatisfie their Obſerva<g ref="char:EOLhyphen"/>tions, then Demonſtrations. But the greateſt cauſe of this difference being the inconſtancy of Phyſical cauſes, which ſtill interpoſed themſelves, they are not altoge<g ref="char:EOLhyphen"/>ther to be excuſed, as not profeſſing to deliver the acci<g ref="char:EOLhyphen"/>dentall inconſtancies of the <hi>Phaenomena,</hi> but the true and demonſtrative Principles of Art. But the divine <hi>Kepler</hi> both underſtood the excellency of this Diagram, and hath fitted the Precepts of his <hi>Rudolphine</hi> Tables hereto. He mentions oft a book of his own, entituled <hi>Hipparchus,</hi> wherein the demonſtrations hereof are con<g ref="char:EOLhyphen"/>tained The Book I have not ſeen, perhaps it is not yet publiſhed. I ſhall onely at this time touch ſome few
+<pb n="19" facs="tcp:169851:14"/>things herein, that concern my preſent purpoſe, refer<g ref="char:EOLhyphen"/>ring the Reader for the reſt to <hi>Astronomia Brittannica,</hi> where it is fully demonſtrated, and the manifold uſes thereof declared.</p>
+               <figure>
+                  <figDesc>a semicircle and two circles divided by several labeled angles</figDesc>
+               </figure>
+               <p>In the Diagram annex<g ref="char:EOLhyphen"/>ed, let A be the center of the <hi>Sun,</hi> C of the Perigae<g ref="char:EOLhyphen"/>an ſhadow, H of the Apo<g ref="char:EOLhyphen"/>gaean ſhadow, B of the Earth; ſo is the apparent Semidiameter of the <hi>Sun</hi> ABE, of the Perigaean ſhadow CBP, of the Apo<g ref="char:EOLhyphen"/>gaean ſhadow HBN, the vertex of the Conical ſha<g ref="char:EOLhyphen"/>dow D, the Semiangle thereof BDG, the axis BD; let the lines GF, PK NO, be paralel to DA: the Semidiameter of the Earth BG, the Center of the <hi>Moon</hi> L, the Semidia<g ref="char:EOLhyphen"/>meter of the <hi>Moon</hi> in the change LBM, the Hori<g ref="char:EOLhyphen"/>zontal Paralax of the <hi>Sun</hi> BAG, of the <hi>Moon</hi> BLG, whence we thus proceed.</p>
+               <p n="1">I. The Semiangle of the Cone of the ſhadow is al<g ref="char:EOLhyphen"/>wayes leſſe then the <hi>Sun's</hi> apparent Semidiameter, and the difference of theſe is the <hi>Sun's</hi> Horizontall Paralax.</p>
+               <p>The former part is pro<g ref="char:EOLhyphen"/>ved from an opticall prin<g ref="char:EOLhyphen"/>ciple:
+<pb n="20" facs="tcp:169851:15"/>
+                  <hi>Idem objectum quo proprius cerniter, eo majus ap<g ref="char:EOLhyphen"/>paret,</hi> ſo that the Semidiameter of the <hi>Sun</hi> being beheld from B, appears greater then if it be beheld from D, in regard B is neerer the object then D. The <hi>Sun's</hi> Semidi<g ref="char:EOLhyphen"/>ameter apparent is ABE—AGE, the <hi>Sun's</hi> Horizontall Paralax is BAG—GAF. Now in regard the two lines AD and FG are paralel, it is neceſſary that ADE ſhould be equall to FGE; therefore AGE-FGE-AGF-BAG the <hi>Sun's</hi> Horizontall Paralax.</p>
+               <p n="2">II. The Semiangle of the Cone of the ſhadow is e<g ref="char:EOLhyphen"/>quall to the difference of the <hi>Moon's</hi> Horizontall Para<g ref="char:EOLhyphen"/>lax, and the Semidiameter of the ſhadow.</p>
+               <p>Let us take the <hi>Moon</hi> in her <hi>Apogaeum,</hi> and oppoſition to the <hi>Sun,</hi> her Horizontall Paralax is BHG, whereto BNG is equall; the Semidiamiter apparent of the ſha<g ref="char:EOLhyphen"/>dow HBN: now BNG—HBN—ONP, which by reaſon of the Paralelliſme of the lines NO and DA, is equall to the angle ADE, which is the Semiangle of the Cone of the ſhadow.</p>
+               <p>If we take alſo the <hi>Moon</hi> in her <hi>Perigaeum,</hi> her Hori<g ref="char:EOLhyphen"/>zontall Paralax is BCG, whereto BPG is equall; the apparent Semidiameter of the ſhadow is CBP: now BPG—BPK—KPG, which by reaſon of the Paralelliſm of the lines PK and DA, is equall to the angle ADE, the Semiangle of the Cone of the ſhadow.</p>
+               <p>Nor need any one think our demonſtration invalid or inſufficient, for that we have aſſumed the angles BCG and BPG to be equall, whereas indeed they are not (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) preciſely ſo: For I ſhall ſhew how inconſiderable a difference this is and how far it avoids our Obſervation. For if we take the angle ADE, or which is the ſame KPG to be 12 min. o ſec. which follows from our Authors numbers, (for by the firſt Theoreme AGE 15 min. o ſec. AGF 3 min. o ſec. FGE—ADE 12 min. o ſec.) the naturall Tan<g ref="char:EOLhyphen"/>gent thereof is 349067—KG. We ſhall alſo from our
+<pb n="21" facs="tcp:169851:15"/>Authors Tables take the apparent Semidiameter of the ſhadow CBP, or BPK, to be 47 min. o ſec. which is the greateſt they ſet down; Its Tangent is BK—1367260. the ſum of the angles is BPG—59 min. o ſec. the ſum of the Tangents is BG—1716327. whereto anſwers the angle BCG—58 min. 59. ſec. 50 thirds: This angle differs from the former BPG, (to which it is aſſumed equall) onely 10 thirds; nor in this practice is the diffe<g ref="char:EOLhyphen"/>rence ever greater. The like might have been ſaid of the former Theoreme, but that the difference which is here ſo contemptible, is there far ſmaller, and can in neither of them, though with the moſt ſcrupulous, leave any ſcruple of the certainty of our demonſtration.</p>
+               <p>This Theoreme is the ground of the 148. Precept of the <hi>Rudolphine</hi> Tables, whoſe words run thus; <hi>Conjice in unam ſummam Parallaxes Horizontales Solis &amp; Lunae; ab hac ſummâ abjiciatur Semidiamiter Solis apparens re<g ref="char:EOLhyphen"/>linquitur Sem diameter umbrae justa ad tempus:</hi> which is the ſame our Theoreme doth require, I might here ſhew.</p>
+               <p n="3">III. That if the Cone of the ſhadow be ſo continued beyond the Earth, that the Diameter of the Sun be the baſe thereof, and the Center of the Moon be in the axes thereof betwixt the Earth and the Sun, the ſum of her Horizontall Parallax, and the Semiangle of the Cone is equall to the apparent Semidiameter of the Cone in that diſtance.</p>
+               <p n="4">IIII. That the difference betwixt the apparent Semi<g ref="char:EOLhyphen"/>diameter of the ſhadow and the Horizontall Parallax of the Moon in the ſhadow (that is the Semiangle of the Cone of the ſhadow) in the ſame diſtance of the Sun from the Earth is ſtill the ſame, and receives no change from the Moons varying her diſtance from the Earth.</p>
+               <p n="5">V. That it is impoſſible for any Planet or Star, that is ſcituate without the Earth, to be utterly void of Hori<g ref="char:EOLhyphen"/>zontall Parallax, if we ſpeak Mathematically; though ſenſibly the fixed Stars and other remote bodies cannot
+<pb n="22" facs="tcp:169851:16"/>be ſaid to have any Parallax, in regard that the Semidi<g ref="char:EOLhyphen"/>ameter of the Earth, which is the Tangent of their Paral<g ref="char:EOLhyphen"/>lax, to the Radius of the diſtance, bears no evident pro<g ref="char:EOLhyphen"/>portion to that diſtance.</p>
+               <p>But theſe things to him that underſtands any thing of Geomitrie, need no demonſtration, but are evident from the Diagram it ſelfe, and partly for that cauſe they are here omitted, partly becauſe I hold it ſuperfluous to uſe more Engines againſt our Authors falſities, then are needfull for the confuting thereof; and laſtly, becauſe that all thoſe Theoremes which may be deduced from the precedent Diagram, are not to our preſent purpoſe, but have a nobler Object then any our Authors ſeem to have aim'd at; their rules and tables being made of ſuch abject ſtuſfe, they deſerve not the title of Mathema<g ref="char:EOLhyphen"/>ticall or Aſtronomicall, as not agreeing to the pure and undoubted Principles of Art, which we will here manifeſt.</p>
+               <p>In the firſt Theoreme we demonſtrated, that the diffe<g ref="char:EOLhyphen"/>rence of the <hi>Sun's</hi> apparent Semidiameter, and his Ho<g ref="char:EOLhyphen"/>rozontall Parallax was equall to the Semiangle of the Cone of the ſhadow: and in the ſecond Theoreme, that the difference of the <hi>Moons</hi> Horizontall Parallax, and the apparent Semidiameter of the ſhadow was likewiſe equall to the Semiangle of the Cone of the ſhadow: It followes hence, that theſe two differences are likewiſe equall one to another. But how well our Authors have accorded hereunto may appear by the following <hi>Synop<g ref="char:EOLhyphen"/>ſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> The numbers whereof we have taken from our Authors Tables.</p>
+               <p>
+                  <table>
+                     <head>I. ☉ <hi>Apog.</hi> 
+                        <g ref="char:Moon">☽</g> 
+                        <hi>Apog.</hi>
+                     </head>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">Min.</cell>
+                        <cell role="label">Sec.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>The Semidiameter of the <hi>Sun</hi>
+                        </cell>
+                        <cell>15</cell>
+                        <cell>0</cell>
+                        <cell>AGE</cell>
+                     </row>
+                     <row>
+                        <cell>The Horizontal Parallax of the <hi>Sun</hi>
+                        </cell>
+                        <cell>3</cell>
+                        <cell>0</cell>
+                        <cell>AGF</cell>
+                     </row>
+                     <row>
+                        <cell>The Semiang. of the cone of the ſha.</cell>
+                        <cell>12</cell>
+                        <cell>0</cell>
+                        <cell>FGE—ADE</cell>
+                     </row>
+                     <row>
+                        <cell>The Horizontal Paral. of the <hi>Moon</hi>
+                        </cell>
+                        <cell>59</cell>
+                        <cell>9</cell>
+                        <cell>BHG</cell>
+                     </row>
+                     <pb n="23" facs="tcp:169851:16"/>
+                     <row>
+                        <cell>The Semidiameter of the ſhadow</cell>
+                        <cell>43</cell>
+                        <cell>0</cell>
+                        <cell>HGN</cell>
+                     </row>
+                     <row>
+                        <cell>The Semiangle of the Cone</cell>
+                        <cell>16</cell>
+                        <cell>9</cell>
+                        <cell>ONP—ADE</cell>
+                     </row>
+                     <row>
+                        <cell cols="4">Differing from the former 4 min. 9 ſec. whereto it ſhould be equall.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>II. ☉ <hi>Apog.</hi> 
+                        <g ref="char:Moon">☽</g> 
+                        <hi>Perig.</hi>
+                     </head>
+                     <row>
+                        <cell>The Semidiameter of the <hi>Sun</hi>
+                        </cell>
+                        <cell>15′</cell>
+                        <cell>0″</cell>
+                        <cell>AGF</cell>
+                     </row>
+                     <row>
+                        <cell>The Horizontall Paral. of the <hi>Sun</hi>
+                        </cell>
+                        <cell>3</cell>
+                        <cell>0</cell>
+                        <cell>AGF</cell>
+                     </row>
+                     <row>
+                        <cell>The Semiangle of the Cone</cell>
+                        <cell>12</cell>
+                        <cell>0</cell>
+                        <cell>FGE—ADE</cell>
+                     </row>
+                     <row>
+                        <cell>The Horizontal Paral. of the <hi>Moon</hi>
+                        </cell>
+                        <cell>62</cell>
+                        <cell>39</cell>
+                        <cell>BPG</cell>
+                     </row>
+                     <row>
+                        <cell>The Semidiameter of the ſhadow</cell>
+                        <cell>47</cell>
+                        <cell>0</cell>
+                        <cell>BPK</cell>
+                     </row>
+                     <row>
+                        <cell>The Semiangle of the Cone</cell>
+                        <cell>15</cell>
+                        <cell>39</cell>
+                        <cell>KPG—ADE</cell>
+                     </row>
+                     <row>
+                        <cell cols="4">Differing from the former 3 min. 39 ſec. whereto it ſhould be equall.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>III. ☉ <hi>Perig.</hi> 
+                        <g ref="char:Moon">☽</g> 
+                        <hi>Apog.</hi>
+                     </head>
+                     <row>
+                        <cell>The Semidiameter of the <hi>Sun</hi>
+                        </cell>
+                        <cell>15′</cell>
+                        <cell>30″</cell>
+                     </row>
+                     <row>
+                        <cell>The Horizontall Parallax of the <hi>Sun</hi>
+                        </cell>
+                        <cell>3</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>The Semiangle of the Cone</cell>
+                        <cell>12</cell>
+                        <cell>30</cell>
+                     </row>
+                     <row>
+                        <cell>The Horizontall Parallax of the <hi>Moon</hi>
+                        </cell>
+                        <cell>59</cell>
+                        <cell>9</cell>
+                     </row>
+                     <row>
+                        <cell>The Semidiameter of the ſhadow corrected</cell>
+                        <cell>42</cell>
+                        <cell>32</cell>
+                     </row>
+                     <row>
+                        <cell>The Semiangle of the Cone</cell>
+                        <cell>16</cell>
+                        <cell>37</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">Differing from the former 4 min. 7 ſec. whereto it ſhould be equall.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>IIII. ☉ <hi>Perig.</hi> 
+                        <g ref="char:Moon">☽</g> 
+                        <hi>Perig.</hi>
+                     </head>
+                     <row>
+                        <cell>The Semidiameter of the <hi>Sun</hi>
+                        </cell>
+                        <cell>15</cell>
+                        <cell>30</cell>
+                     </row>
+                     <row>
+                        <cell>The Horizontall Parallax of the <hi>Sun</hi>
+                        </cell>
+                        <cell>3</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>The Semiangle of the Cone</cell>
+                        <cell>12</cell>
+                        <cell>30</cell>
+                     </row>
+                     <row>
+                        <cell>The Horizontall Parallax of the <hi>Moon</hi>
+                        </cell>
+                        <cell>62</cell>
+                        <cell>39</cell>
+                     </row>
+                     <row>
+                        <cell>The Semidiameter of the ſhadow corrected</cell>
+                        <cell>46</cell>
+                        <cell>32</cell>
+                     </row>
+                     <row>
+                        <cell>The Semiangle of the Cone</cell>
+                        <cell>16</cell>
+                        <cell>7</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">Differing from the former 3 min. 37 ſec. whereto it ſhould be equall.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Thus are our Authors Tables unmasked, and laid o<g ref="char:EOLhyphen"/>pen to the view of every Artiſt, their diſagreement to
+<pb n="24" facs="tcp:169851:17"/>the demonſtration being ſo great, as no Phyſicall Salve that can reaſonably be applyed, is ſufficient to counter<g ref="char:EOLhyphen"/>poiſe theſe differences. In every one of theſe poſitures, if we grant our Authors their numbers, it would follow, that the ſemiangle of the Cone is greater then the ſemi<g ref="char:EOLhyphen"/>diameter of the Sun; which is as if we ſhould affirm, that FGE, part of the angle AGE were greater then the whole angle, which is abſurd and impoſſible. But who can tell whether or no our Authors deſire of exteri<g ref="char:EOLhyphen"/>our helps, hath furniſhed them of ſpectacles fitter for a greater age then their own, which amplifying the ſemi<g ref="char:EOLhyphen"/>angle of the Cone, made it appear ſo much too big for the room whereon it ſtood, and yet unlucky, did not amplifie the room withall.</p>
+               <p>Hence likewiſe would follow, that the Sun's diſtance from the Earth is not onely infinite, but (if we may ſo ſay) a degree beyond infiniteneſſe: And yet with much confidence can they proceed to determine (as we ſhall ſhew anon) the diſtance of the Sun from the earth in miles; whereas it appears by their Tables no ſuch di<g ref="char:EOLhyphen"/>ſtance is ever poſſible to be defined, and their very di<g ref="char:EOLhyphen"/>ſtances there ſet down, are not onely diſconſonant to the Truth, but alſo to their own erronious aſſumptions.</p>
+               <p>Hence would alſo follow, that the Sun's Horizontall Parallax were not onely nothing, but even leſſe then nothing (contrary to the fift Theoreme) which how we ſhould ſalve, I know not, unleſſe we ſhould imagine, that the Sun-beams paſſing through the Chriſtalline Orbs of the inferiour Planets, finde in their journey a burning point wherein the ſeverall rayes concur, and invert the ſpecies of the Object, ſo that hereby the pro<g ref="char:EOLhyphen"/>perty of the Sun's Parallax comes to changed: But I never heard that this was the confirmed experiment of any Optiſt, and am of opinion, that our Authors never dreamt they ſhould have ſtood in need of ſuch ſupporters as theſe for their new Tables; yet have they in the Title
+<pb n="25" facs="tcp:169851:17"/>page ſpoken more truly then they thought, in theſe words, <hi>Nothing of this nature being extant in the Engliſh tongue:</hi> for ſcarcely ſhal we find any ſuch abſurdities drop from a Pen that profeſſes to be able to perform ſo much.</p>
+               <p>I might here urge the Diagram further, and from thence ſhew not onely the generall, but particular de<g ref="char:EOLhyphen"/>fects of our Authors Tables, bu as it is true in all Arts, that <hi>Contra principia neg<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntem non eſt disputatio,</hi> ſo nei<g ref="char:EOLhyphen"/>ther <hi>Contra principia non babentem: Aliqua tamen claritas immittenda erit, ne erroris ſuſſumig um oculos obtenebret, vapidiſque n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gis impeditum mentis viſum teneat.</hi>
+               </p>
+               <figure>
+                  <figDesc>two overlapping triangles with labeled angles</figDesc>
+               </figure>
+               <pb n="26" facs="tcp:169851:18"/>
+               <p>It is true, they have onely followed <hi>Argol</hi> herein, but his authority cannot ſhelter them, for he hath in the Equation of the Sun followed <hi>Kepler's</hi> Hypotheſis of the biſected Eccenticity, whereto his Semidiameters do agree: but our Authors have confounded their Tables, by aſſuming ſeverall parts of ſeverall Hypotheſes, which diſagree amongſt themſelves, and thereby have made their work as unſeemly a ſpectacle, as the Daw in her ſtolen plumes, or the Arcadian <hi>Dametas</hi> in his borrowed Armour.</p>
+               <p n="2">II That the ſemediameters of the Moon, which our Authors have given us, <hi>pag.</hi> 121. are not conſonant to the Obſervations which have been made by Artiſts, eſ<g ref="char:EOLhyphen"/>pecially in Eclipſes of the Sun: for the Apogaean Semi<g ref="char:EOLhyphen"/>diameter of the Moon, 15 min. 15. ſec. is almoſt equall to the Perigaean Semidiameter of the Sun, 15 min. 30. ſec. whence it would fall out, that in moſt part of the Suns Eclipſes, where the Moons viſible latitude is ſmall, the Sun would be totally eclipſed, which nevertheleſſe is contrary to all Obſervations of this kinde.</p>
+               <p>
+                  <hi>Chr. Clavius,</hi> in the fourth book of his Comentaries (upon my Country-man) <hi>John de Sac. Boſco,</hi> tels of an Eclipſe he obſerved at <hi>Rome,</hi> Anno 1567. <hi>April</hi> 9. where<g ref="char:EOLhyphen"/>in he ſaw the obſcure body of the Moon comprehen<g ref="char:EOLhyphen"/>ded all within the light body of the Sun, and ſo that the unobſcured part of the Sun, was a bright circle about the Moons body. To this Obſervation, our Authors Cal<g ref="char:EOLhyphen"/>culation will not agree, the whole proceſſe whereof we had here ſet down, had not our room failed us; yet the generall heads thereof we will deliver, as far as concerns our preſent purpoſe</p>
+               <p>This Eclipſe falling without the limits of our Authors <hi>Epochaes,</hi> we took this courſe for obtaining the mean motions for the time of the Eclipſe. Firſt, we took the Radix 1667. and by the annuall motions ſet down <hi>pag.</hi> 65. gathered the motions of 100. common yeers, to which
+<pb n="27" facs="tcp:169851:18"/>we added the motion of 25 dayes (being the number of Leap-yeers therein) the ſum ſubducted from the ſaid Radix, gave us the Radix <hi>anni</hi> 1567. as in the following <hi>Paradigma.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label" cols="4">Long. ☉.</cell>
+                        <cell role="label" cols="4">☉ Apog.</cell>
+                        <cell role="label" cols="4">Lon. <g ref="char:Moon">☽</g> a ☉</cell>
+                        <cell role="label" cols="4">Anom. <g ref="char:Moon">☽</g>.</cell>
+                        <cell role="label" cols="4">Lat. <g ref="char:Moon">☽</g>.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">Si.</cell>
+                        <cell role="label">D.</cell>
+                        <cell role="label">M.</cell>
+                        <cell role="label">S.</cell>
+                        <cell role="label">S.</cell>
+                        <cell role="label">D.</cell>
+                        <cell role="label">M.</cell>
+                        <cell role="label">S.</cell>
+                        <cell role="label">S.</cell>
+                        <cell role="label">D.</cell>
+                        <cell role="label">M.</cell>
+                        <cell role="label">Se.</cell>
+                        <cell role="label">Si.</cell>
+                        <cell role="label">D.</cell>
+                        <cell role="label">M.</cell>
+                        <cell role="label">S.</cell>
+                        <cell role="label">Si.</cell>
+                        <cell role="label">D.</cell>
+                        <cell role="label">M.</cell>
+                        <cell role="label">Sec.</cell>
+                     </row>
+                     <row>
+                        <cell role="label">1667</cell>
+                        <cell>9</cell>
+                        <cell>20</cell>
+                        <cell>0</cell>
+                        <cell>42</cell>
+                        <cell>3</cell>
+                        <cell>6</cell>
+                        <cell>51</cell>
+                        <cell>47</cell>
+                        <cell>6</cell>
+                        <cell>7</cell>
+                        <cell>44</cell>
+                        <cell>42</cell>
+                        <cell>2</cell>
+                        <cell>24</cell>
+                        <cell>2</cell>
+                        <cell>53</cell>
+                        <cell>10</cell>
+                        <cell>2</cell>
+                        <cell>38</cell>
+                        <cell>35</cell>
+                     </row>
+                     <row>
+                        <cell role="label">100</cell>
+                        <cell>11</cell>
+                        <cell>6</cell>
+                        <cell>10</cell>
+                        <cell>50</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>42</cell>
+                        <cell>20</cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                        <cell>16</cell>
+                        <cell>40</cell>
+                        <cell>7</cell>
+                        <cell>21</cell>
+                        <cell>59</cell>
+                        <cell>19</cell>
+                        <cell>3</cell>
+                        <cell>21</cell>
+                        <cell>15</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell role="label">d. 25</cell>
+                        <cell>0</cell>
+                        <cell>24</cell>
+                        <cell>38</cell>
+                        <cell>28</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>4</cell>
+                        <cell>10</cell>
+                        <cell>4</cell>
+                        <cell>46</cell>
+                        <cell>7</cell>
+                        <cell>10</cell>
+                        <cell>26</cell>
+                        <cell>37</cell>
+                        <cell>29</cell>
+                        <cell>11</cell>
+                        <cell>0</cell>
+                        <cell>44</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell role="label">y 100</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>49</cell>
+                        <cell>18</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>42</cell>
+                        <cell>34</cell>
+                        <cell>10</cell>
+                        <cell>7</cell>
+                        <cell>2</cell>
+                        <cell>47</cell>
+                        <cell>6</cell>
+                        <cell>18</cell>
+                        <cell>36</cell>
+                        <cell>39</cell>
+                        <cell>2</cell>
+                        <cell>21</cell>
+                        <cell>59</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell role="label">1567</cell>
+                        <cell>9</cell>
+                        <cell>19</cell>
+                        <cell>11</cell>
+                        <cell>24</cell>
+                        <cell>3</cell>
+                        <cell>5</cell>
+                        <cell>9</cell>
+                        <cell>13</cell>
+                        <cell>8</cell>
+                        <cell>0</cell>
+                        <cell>41</cell>
+                        <cell>55</cell>
+                        <cell>8</cell>
+                        <cell>5</cell>
+                        <cell>26</cell>
+                        <cell>14</cell>
+                        <cell>7</cell>
+                        <cell>10</cell>
+                        <cell>39</cell>
+                        <cell>34</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>Hence there followes</head>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">D.</cell>
+                        <cell role="label">H.</cell>
+                        <cell role="label">Min.</cell>
+                        <cell role="label">Sec.</cell>
+                     </row>
+                     <row>
+                        <cell>The mean ☌ of ☉ &amp; <g ref="char:Moon">☽</g> at <hi>London</hi> 1567. <hi>Apr</hi>
+                        </cell>
+                        <cell>8</cell>
+                        <cell>9</cell>
+                        <cell>4</cell>
+                        <cell>22</cell>
+                     </row>
+                     <row>
+                        <cell>The intervallum to be added</cell>
+                        <cell> </cell>
+                        <cell>13</cell>
+                        <cell>28</cell>
+                        <cell>30</cell>
+                     </row>
+                     <row>
+                        <cell>The true Conjunction at <hi>London</hi>
+                        </cell>
+                        <cell>8</cell>
+                        <cell>22</cell>
+                        <cell>32</cell>
+                        <cell>52</cell>
+                     </row>
+                     <row>
+                        <cell>The equation of days (<hi>tab. pag.</hi> 117.) ad.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>8</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>The apparent time of the true ☌ at <hi>Londo<g ref="char:cmbAbbrStroke">̄</g>
+                           </hi>
+                        </cell>
+                        <cell>8</cell>
+                        <cell>22</cell>
+                        <cell>41</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>The differ. of <hi>Merid.</hi> of <hi>Lon.</hi> &amp; <hi>Rome</hi> ad.</cell>
+                        <cell> </cell>
+                        <cell>1</cell>
+                        <cell>7</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>The apparent time of the true ☌ at <hi>Rome</hi>
+                        </cell>
+                        <cell>8</cell>
+                        <cell>23</cell>
+                        <cell>48</cell>
+                        <cell>0</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>At which time is given</head>
+                     <row>
+                        <cell cols="2"> </cell>
+                        <cell role="label">S.</cell>
+                        <cell role="label">D.</cell>
+                        <cell role="label">Min</cell>
+                        <cell role="label">Sec.</cell>
+                     </row>
+                     <row>
+                        <cell>The Anomaly of the ☉</cell>
+                        <cell> </cell>
+                        <cell>9</cell>
+                        <cell>21</cell>
+                        <cell>30</cell>
+                        <cell>44</cell>
+                     </row>
+                     <row>
+                        <cell>The Anomaly of the <g ref="char:Moon">☽</g>
+                        </cell>
+                        <cell> </cell>
+                        <cell>3</cell>
+                        <cell>8</cell>
+                        <cell>4</cell>
+                        <cell>17</cell>
+                     </row>
+                     <row>
+                        <cell>The mean diſtance of <g ref="char:Moon">☽</g> from ☉</cell>
+                        <cell> </cell>
+                        <cell>0</cell>
+                        <cell>6</cell>
+                        <cell>50</cell>
+                        <cell>11</cell>
+                     </row>
+                     <row>
+                        <cell>The true motion of <g ref="char:Moon">☽</g> latitude</cell>
+                        <cell> </cell>
+                        <cell>2</cell>
+                        <cell>24</cell>
+                        <cell>33</cell>
+                        <cell>51</cell>
+                     </row>
+                     <row>
+                        <cell>The place of the ☉ and <g ref="char:Moon">☽</g>
+                        </cell>
+                        <cell> </cell>
+                        <cell>♈</cell>
+                        <cell>28</cell>
+                        <cell>32</cell>
+                        <cell>58</cell>
+                     </row>
+                     <row>
+                        <cell>The difference betwixt the true and viſi<g ref="char:EOLhyphen"/>ble Conjunction add.</cell>
+                        <cell cols="3"> </cell>
+                        <cell>20</cell>
+                        <cell>15</cell>
+                     </row>
+                     <row>
+                        <cell>The time of the viſible ☌</cell>
+                        <cell>
+                           <hi>April 9</hi>
+                        </cell>
+                        <cell cols="2"> </cell>
+                        <cell>8</cell>
+                        <cell>15</cell>
+                     </row>
+                     <row>
+                        <cell>The Semidameter of the ☉</cell>
+                        <cell cols="2"> </cell>
+                        <cell>0</cell>
+                        <cell>15</cell>
+                        <cell>9</cell>
+                     </row>
+                     <row>
+                        <cell>The Semidiameter of the <g ref="char:Moon">☽</g>
+                        </cell>
+                        <cell cols="3"> </cell>
+                        <cell>16</cell>
+                        <cell>29</cell>
+                     </row>
+                     <row>
+                        <cell>The ſum of the Semidiameters</cell>
+                        <cell cols="3"> </cell>
+                        <cell>31</cell>
+                        <cell>38</cell>
+                     </row>
+                     <row>
+                        <cell>The viſible lati ude of <g ref="char:Moon">☽</g>
+                        </cell>
+                        <cell>
+                           <hi>North</hi>
+                        </cell>
+                        <cell cols="2"> </cell>
+                        <cell>0</cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>The ſcruples deficient</cell>
+                        <cell cols="3"> </cell>
+                        <cell>31</cell>
+                        <cell>33</cell>
+                     </row>
+                     <row>
+                        <cell>The digits eclipſed</cell>
+                        <cell cols="2"> </cell>
+                        <cell>12</cell>
+                        <cell>28</cell>
+                        <cell>22</cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="28" facs="tcp:169851:19"/>
+               <p>This calculation is fitted to the Horizon of <hi>Rome,</hi> whoſe latitude, according to our Authors, <hi>pag.</hi> 182. is 42. deg. o min.</p>
+               <figure>
+                  <figDesc>a total solar eclipse</figDesc>
+               </figure>
+               <p>Nor can that be objected hereunto, which the learned <hi>Kepler</hi> hath diſcourſed in <hi>Astron. Opt.</hi> pag 297 concern<g ref="char:EOLhyphen"/>ing the poſſibility of this appearance: Thoſe phyſicall cauſes having not ſo much power and force, as to take a<g ref="char:EOLhyphen"/>way all this diſtance of the limbs; and beſides, never ta<g ref="char:EOLhyphen"/>king place but where the Suns light ſurrounds the limb of the Moon, for otherwiſe the ſplendor of the ayr which would encreaſe the Sun's ſemidiameter, quite vaniſheth and leaves the Luminaries to their juſt bigneſſe.</p>
+               <p>Neither can the groundleſſe limitations of <hi>Longomon<g ref="char:EOLhyphen"/>tanus</hi> or <hi>Lansberg</hi> be of any uſe in reconciling theſe dif<g ref="char:EOLhyphen"/>ficulties: For by the rule of <hi>Longomotanus,</hi> Theoric. pag. 177. there ſhould be 33 ſec. ſubſtracted from the ſemidiameter of the Moon; and by the rule of <hi>Lansberg,</hi> Uranometr. pag 66. there ſhould be 45 ſec. ſubſtracted from the ſemidiamer of the Sun, becauſe the Moon is ſeen in a greater angle then the Sun. The former way could ſomething leſſen the errour, but not wholly take it away; the latter way would encreaſe it, and make it more notorious.</p>
+               <p>But why ſhould I ſpend time in ſeeking ſuch helps for our Authors, as perhaps they will not accept of; none of theſe limitations being ſo much as mentioned by
+<pb n="29" facs="tcp:169851:19"/>them, their Tables freeing themſelves of ſuch un<g ref="char:EOLhyphen"/>neceſſary burdens, thereby to run more freely into error and falſity.</p>
+               <p>There have been had other obſervations of Solar Eclipſes of this kinde, as that which was had by <hi>D. Jeſſenius,</hi> Anno 1598. <hi>February</hi> 25 at <hi>Torge</hi> in <hi>Miſnia; Kepler, Astron. Optic</hi> pag 299. and that which was obſerved by the Fiſherman, neer <hi>Bergen</hi> in <hi>Norway,</hi> upon the ſea ſhore; where the bright circle about the Moon was 1 ½ Digit. This befell <hi>Anno</hi> 1601. <hi>Decemb.</hi> 14. <hi>Longom.</hi> Theor. pag. 165. The calculation of theſe, he that liſts may try by our Authors Tables, and ſee how neer he can reconcile them with obſervation.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>
+                  <hi>CHAP. VII.</hi> Of the aequation of Naturall Dayes.</head>
+               <p>OUr authors have, <hi>pag.</hi> 87. given us a precept for the finding of the aequations of naturall dayes, wherein they have followed <hi>Tycho,</hi> whoſe Table is not conſenta<g ref="char:EOLhyphen"/>neous to Demonſtration: For the aequation of dayes de<g ref="char:EOLhyphen"/>rives it current from two fountains, the one whereof is the motion of the Sun, in a circle inclined to the Equa<g ref="char:EOLhyphen"/>tor, which is the true meaſure of time, and out of this diſ<g ref="char:EOLhyphen"/>agreement of the arches of the Equinoctiall, and the E<g ref="char:EOLhyphen"/>cliptick, ariſeth the firſt inequality of time, which alone our authors have uſed, conſiſting of the difference of the right aſcenſions of the Zodiacall arches from the arches themſelves. The other cauſe of this aequation is the une<g ref="char:EOLhyphen"/>quall progreſſion of the Sun in the Zodiack, occoſioned by his eccentricity; the difference of which diurnall arch<g ref="char:EOLhyphen"/>es, from the arch of his diurnall mean motion 59 m. 8 ſ c is the diurnall aequation: Yet muſt both this, and the former part of aequation be converted into time, before it be fit for uſe.</p>
+               <pb n="30" facs="tcp:169851:20"/>
+               <p>Yet have <hi>Tycho</hi> and the moſt of his followers rejected the later part of the equation, whoſe authority hath alſo drawne our Authors into their number. None of them ſhowing any reaſon for their ſo doing herein, but this, that their reſtitution of the Moones motions, and the ob<g ref="char:EOLhyphen"/>ſervations of Eclipſes, did ſeeme to require it; But this Empeiricall way can never be true, becauſe it ſatisfies not the exactneſſe of demonſtration. And who can affirm that they have ſo reſtored the caeleſtiall motions, as that we may rather truſt them then our alone ſenſes. Expe<g ref="char:EOLhyphen"/>rience is indeed the Lady preſident of <hi>Vrania's</hi> repub<g ref="char:EOLhyphen"/>licke, and merits regard, ſo long as ſhe proſecutes the Mandates of Demonſtration, the ſupream Authority; but when once their reſults agree not, experience muſt yeeld and reſigne her power to Demonſtration.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>
+                  <hi>CHAP. VIII.</hi> Our Authors determination of the diſtance of Cae<g ref="char:EOLhyphen"/>lestiall bodies from the earth examined.</head>
+               <p>I Shall not need to particularize the Stars and Planets ſeverally. An example-will be ſufficient to demon<g ref="char:EOLhyphen"/>ſtrate the inſufficienty of the reſt.</p>
+               <p>We begin with the Earth, whoſe dimentions ſince our Authors have not here ſet downe, we muſt borrow from another place. In Maſter <hi>Wings</hi> Almin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ck 16<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8. the cir<g ref="char:EOLhyphen"/>cumference is given 21600. miles, and to this the con<g ref="char:EOLhyphen"/>verſion of degrees into miles (<hi>Vran. Pract. par.</hi> 5 <hi>cha</hi> 3) doe agree. Whence he hath formed the Semidiamiter 3436. miles, which nevertheleſſe is not exactly true, for as 314159. is to 100000. (of this ſee <hi>Ludolphus van Cu<g ref="char:EOLhyphen"/>len</hi> and <hi>Lansberge de Cyclemetria</hi>) ſo is the cireumference 21600. to the Diameter 6875½. and ſo is the Semidiami<g ref="char:EOLhyphen"/>ter 3437¾. But we will take his number 3436. and ſee how the reſt agree thereto.</p>
+               <pb n="31" facs="tcp:169851:20"/>
+               <p>We finde (<hi>cap.</hi> 4. <hi>par.</hi> 4.) that the mean diſtance of <hi>Sa<g ref="char:EOLhyphen"/>turn</hi> from the Earth is according to <hi>Argol</hi> 10571. ſemi<g ref="char:EOLhyphen"/>diameters, which maketh (if we will beleeve our Au<g ref="char:EOLhyphen"/>thors) 9091960. miles. But he that ſhall multiply the number of ſemidiameters 10571. by the number of miles in one ſemidiameter 3436. ſhall finde another number, namely 36321956. So likewiſe in <hi>Jupiter</hi> 3990. multi<g ref="char:EOLhyphen"/>plyed by 3436. gives 13709640. not 343120 And in <hi>Mars</hi> alſo 1745. multiplyed by 3436. gives 5995820. not 1500700 In the <hi>Sun</hi> the diſtance in ſemidiameters of the Earth is not given, the diſtance is in miles 989000 which being divided by 3436. gives the diſtance in ſe<g ref="char:EOLhyphen"/>midiameters 287⅔. which gives the horizontall parallax almoſt 12 min. foure times as big as that which our Au<g ref="char:EOLhyphen"/>thors have given in their tables of Ecclipſes. I will ſpend no more time in reckoning up the reſt. I hope theſe er<g ref="char:EOLhyphen"/>rors (obvious to every School-boy) are ſufficient to ma<g ref="char:EOLhyphen"/>nifeſt the likeneſſe and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> of the reſt.</p>
+               <p>But in regard our Authors are ſo carefull of the com<g ref="char:EOLhyphen"/>mon good, that over and beſides this worke of <hi>Urania Practica,</hi> Maſter <hi>Wing</hi> hath publikely invited thoſe that deſire to be ſatisfied in any thing touching the Mathe<g ref="char:EOLhyphen"/>maticks, to repair to his judgement for ſatisfaction; and becauſe he is holden a man of much dexterity in theſe ſciences, I ſhall make bold to propound unto him and his <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Maſter <hi>William Leybourne,</hi> a queſtion or two, and upon their anſwer ſhall be ready to content them for their paines.</p>
+               <p n="1">1. I ſhall enquire how the proportions of the fixed Stars to the Earth (<hi>page</hi> 173.) are gathered, and a de<g ref="char:EOLhyphen"/>monſtration that <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hoſe of the five ſeverall magnitudes, are ſo many times greater then the Earth, as is there ſet down; and alſo how thoſe of the ſixth magnitude, are found to be leſſe then the Earth. I ſhall alſo demand how thoſe of every ſeverall magnitude, are approved to be ſo many in number, as they are there given, and no more.</p>
+               <pb n="32" facs="tcp:169851:21"/>
+               <p n="2">2. I ſhall deſire to know, how and in what manned the Ancients have <hi>demonſtrated</hi> the diſtance of the Hea<g ref="char:EOLhyphen"/>vens by fixed Stars from the Earth to be 130715000 miles, or indeed whether any ſuch <hi>Demonſtration</hi> can be made, now that the Sphaeres are found no leſſe fluid and penetrable then this ayre of ours.</p>
+               <p n="3">3. I ſhall deſire to know how the Planets diſtances from the Earth were gathered, or whether the Analo<g ref="char:EOLhyphen"/>gies of <hi>Tycho,</hi> and the ſo much mentioned <hi>Argol</hi> be groun<g ref="char:EOLhyphen"/>ded upon ſufficient principles, or no; or whether thoſe apparent diameters of the Planets, which our Authors have borrowed from <hi>Tycho,</hi> be conſentaneous to the truth or no, it being propable that the raies of the Stars illu<g ref="char:EOLhyphen"/>minating the ayre they paſſe through made them ap<g ref="char:EOLhyphen"/>peare far bigger then indeed they were.</p>
+               <p>And let my Authors know, that I will not ſuffer my ſelf to be over-ruled with the authority of any Writer, unleſſe his Reaſon have a greater authority then his Name, and Judgement tread on the heels of Invention.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>
+                  <hi>CHAP. IX.</hi> A brief ſummary of ſome other Defects and Imper<g ref="char:EOLhyphen"/>fections.</head>
+               <p>BUt my room grows narrow, and ſo tyeth my Diſcourſe to a period: Good Reader, be pleaſed to take the reſt of my collections in a bundle; I ſhall onely tell you what it contains, and would, if my profeſſed brevity had granted me leave, have laid open the ſeverall pieces to your view.</p>
+               <p>Firſt, I ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, that by our Authors rules, the Sun's al<g ref="char:EOLhyphen"/>titude cannot be gathered univerſally: for though the Example, <hi>pag</hi> 99. be truly wrought, yet if we turn to the fixt Book for a precept, we ſhall finde none, but
+<pb n="33" facs="tcp:169851:21"/>onely a few conciſe Tables, calculated for ſome latitudes which are too narrow and inſufficient for him, whoſe in<g ref="char:EOLhyphen"/>tentions are for narrow and inſufficient for him, whoſe in<g ref="char:EOLhyphen"/>tentions are for generality and exactneſſe.</p>
+               <p>Secondly, the tedious calculation of the Moons Pa<g ref="char:EOLhyphen"/>ralax in her circle of Altitude, detracts from the praiſe of the Book, and might have been with far more eaſe, and by the onely help of the Logarithms ſupplyed thus. As the Radius to the Sine of the Horizontall Parallax, ſo the Coſine of the Luminuries altitude, to the ſine of the Parallax in that altitude. This way is no leſſe de<g ref="char:EOLhyphen"/>monſtrative, and far more eaſie then the other which our Authors have uſed, pag. 99.</p>
+               <p n="3">3. That the table of hourly motion of the Moon from the Sun, pag. 118. cannot be exactly true, becauſe it ſup<g ref="char:EOLhyphen"/>poſeth the Suns motion to be equal, and ſtill of the ſame quantity; which nevertheleſſe by reaſon of his Eccen<g ref="char:EOLhyphen"/>tricity is not ſo, nor can be affirmed.</p>
+               <p n="4">4. The herozontall Parallax of the Sun is not ſtill 3. min. o. ſec. according to the Paper adjoyned to the end of pag. 118. but if that be his Parallax in his meane di<g ref="char:EOLhyphen"/>ſtance, the Apogaean Parallax is 2. min. 53. ſec. The Pe<g ref="char:EOLhyphen"/>rigaean Parallax 3. min. 7. ſec. according to our Authors Eccentricity.</p>
+               <p n="5">5. I affirme no Eclipſe of Sun or Moon can be truly calculated, if we uſe no other rules then what our Au<g ref="char:EOLhyphen"/>thors have given us. For it appeares not whether they have uſed any reduction of the Moone from her Orbe to the Eclipticke; or of the Sun from the Ecliptick to the Moones Orbe; either of which wayes <hi>(conſideratis con<g ref="char:EOLhyphen"/>ſiderandis)</hi> would ſerve. If they uſed the firſt, they finde onely the greateſt Obſcuration, which is not the midle of the Eclipſe. If they uſed the ſecond, they finde onely the midle of the Eclipſe, which is not the greateſt Ob<g ref="char:EOLhyphen"/>ſcuration, <hi>Vide Kepl. Astr. Cop. pag.</hi> 865.</p>
+               <p>Thus hath my Pen run over theſe imperfections which are the principall Moles in the face of <hi>Urania Practica,</hi>
+                  <pb n="34" facs="tcp:169851:22"/>and that without all hatred or deſire of Contradiction; the Cauſes whereof have no predominance in the leaſt over my affections. I wiſh my Inke had rather been wa<g ref="char:EOLhyphen"/>ter to have waſhed a way theſe blots of Art, then markes to make them notorious. Yet I ſhall be glad if my Au<g ref="char:EOLhyphen"/>thors can clear themſelves hereof, which for the preſent I ſee not how it may be done. My wiſhes are, that God the creator of the stars, and the diſpoſer of their influen<g ref="char:EOLhyphen"/>ces, would ſecond the weake endeavours of me and o<g ref="char:EOLhyphen"/>thers that deſire the reſtauration of theſe sciences, for the common good of Man-kinde, and the glory of his Name, <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="letter">
+            <head>
+               <hi>Domino</hi> Vincentio Wing in Ma<g ref="char:EOLhyphen"/>thematicis ſtudioſo.</head>
+            <opener>
+               <salute>Vir Clariſſime,</salute>
+            </opener>
+            <p>
+               <hi>ME</hi> nec tua <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> multum ſcribere nequ<g ref="char:EOLhyphen"/>mea <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> conticeſcere permittit. Hot tantum utrique donabo, ut liberioris calami prolixi<g ref="char:EOLhyphen"/>tatem reprimam, nec ſinam ulterius tendere, quam quod caeteram nostram brevitatem deceat. Privatam quidem tecum ſperavi literarum communionem, net forſan Anatomia haec noſtra lucem vidiſſet, ſi noſtras ad te literas dignat us eſſes agnoſcere. Vnam quidem circa finem jam proxime anteacti Novembris, alteram circa medium Ianuarii ad te miſeram, ſed quid de illis ſentires, aut quomodo amicitiam oblat am acciperes, ſci<g ref="char:EOLhyphen"/>re nondum potui. Verebar imprimis ne Mathematicus
+<pb n="35" facs="tcp:169851:22"/>ille candor ſublimia ingenia comitari ſolitus in te lo<g ref="char:EOLhyphen"/>cum non haberet. Leviculis enim velitationibus huic Tractatulo praeluſi &amp; ſperaſti forſan, ſpretis &amp; ſup<g ref="char:EOLhyphen"/>preſſis noſtris literis, ſuppreſſa etiam fore in tuam <hi>U<g ref="char:EOLhyphen"/>rania<g ref="char:cmbAbbrStroke">̄</g>
+               </hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſed aliter res cecidit, neque rei dif<g ref="char:EOLhyphen"/>ficultas, neque <hi>Uraniae Practicae</hi> fama me ab hoc u<g ref="char:EOLhyphen"/>tili contradicendi munere deterruit. Veritati ſaltem imperium deferendum erit, ut faciliori ſceptro poſſit tam ſuos tutari quam in rebelles decernere. Ipſa per ſe ſatis eluceſcit, nullis nubibus impedita, nullis verbo<g ref="char:EOLhyphen"/>rum lenociniis fucata. Nec deeſt legitima ſoboles, quae ad tuos cantus aures occludit, &amp; cognoſcere nolit que probare non poſſit. Nobis non ſufficit ſpecioſa Tabula<g ref="char:EOLhyphen"/>ram Parapegmata in tuiri. Splendidulis eſcis vixdum capimur — <hi>Manet alta mente repoſtum</hi>
+            </p>
+            <p>
+               <hi>Quam male</hi> Perpetuas <hi>jactavit Belga</hi> Tabellas.</p>
+            <p>Condonabis igitur juventuti noſtrae calami liberta<g ref="char:EOLhyphen"/>tem, quaeque hic tela libro, non ſolum in te, ſed &amp; in Authores tuos directa puta. Sed inexcuſabilius ipſe peccaſti, dum post faeliciter demonſtratos corum erro<g ref="char:EOLhyphen"/>res, hanc telam retexis, fallaciiſque fallacias ſuper<g ref="char:EOLhyphen"/>ſtruere conaris. Egregia quidem fuiſſet, ſummiſque laudibus evehenda tua cura Aſtronomiam Orbi Britan<g ref="char:EOLhyphen"/>nico aſſerendi, ſi veris inſisteres fundame<g ref="char:cmbAbbrStroke">̄</g>tis, &amp; Cram<g ref="char:EOLhyphen"/>ben recoctam dedignareris introducere. Proficuum for<g ref="char:EOLhyphen"/>taſſis &amp; in poſterum erit, ſi inutiles veterum nugas veritati poſthabeas, &amp; cures ut Progymnaſmata illa <hi>Aſtronomica</hi> quae meditari te profiteris, abſurdis
+<pb facs="tcp:169851:23"/>Authorum tuorum poſitionibus depurata prodeant, &amp; ut tandem dediſcas ſervitutem ingenii, nec ab aliorum authoritate tibi ipſi patiaris imponi. Multa quidem ſunt, de quibus privatis literis tecum diſceptandi oc<g ref="char:EOLhyphen"/>caſionem datam gauderem; mulra proponere ſtatueram de vero mundi Systemate, de cauſis motuu<g ref="char:cmbAbbrStroke">̄</g>, de Harmo<g ref="char:EOLhyphen"/>nia Sphaerarum non ſonorâ illâ quam Veterum aliquis prodidere, ſed Muſica motuum &amp; Orbium contempera<g ref="char:EOLhyphen"/>tione. Multa de Luminarium motibus &amp; Theoriis; de phyſicis inconstantiis, quae motus reales turbare videntur: Multa denique de novis Coeli Phaenomenis, &amp; eorum cauſis agere erat animus, ſed ſilentium tu<g ref="char:EOLhyphen"/>um ulteriorem progreſſum intercepit. Sed jamdudum definitos carceres vagus tranſilivit calamus. Deus Opt. Max. tuos &amp; aliorum in Astronomiâ reſtituen<g ref="char:EOLhyphen"/>dâ conatus, pro miſericordia ſua adjuvare dignetur. Hoc ſummopere precatur</p>
+            <closer>
+               <signed>
+                  <hi>Magnus quamquam minimus</hi> 
+                  <g ref="char:V">Ʋ</g>rani<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>cultor tuique amiciſſimus JER. SHAKERLEY.</hi>
+               </signed>
+               <dateline>Carre juxta Colne in agro <hi>Lancaſtrenſi</hi> 
+                  <date>
+                     <hi>8 Martii 1648/9.</hi>
+                  </date> Aetat. noſtrae <hi>23.</hi> labente.</dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:169851:23"/>
+            <head>A Poſtſcript to the Reader.</head>
+            <p>IT is a peece of difficulty as wel to avoyd the juſt Cenſure of ſome, as the unjuſt Calum<g ref="char:EOLhyphen"/>niation of others. That little peece of mine which my worthy and honoured friend Ma<g ref="char:EOLhyphen"/>ſter <hi>William Lilly</hi> was pleaſed to inſert in his late publiſhed Booke of <hi>Aſtrologicall Predictions, &amp;c.</hi> hath been ſubject to the miſconſtruction of ſome pure-noſed Criticks; who have (they ſuppoſe) ſented out an error in the erection of the Figure, <hi>pag.</hi> 14. for that the Sunne is there placed below the Aſcendant; whereas my Let<g ref="char:EOLhyphen"/>ter mentioned onely the time of Sun-riſe, for the time of the firſt viſibility; nor indeed was it likely that the <hi>Parelii</hi> ſhould appeare before the Sun. Let ſuch therefore as have ſtumbled upon that Bloke, give me leave to remove it; and conſider that the refraction of the Sunnes rayes in the Atmoſphaere, or Region of vapors, cauſe him to appeare in the Horizon, when indeed he is below it; which this Figure in ſome ſort demonſtrates.</p>
+            <pb n="36" facs="tcp:169851:24"/>
+            <figure>
+               <figDesc>an arc and two concentric circles, connected by several labeled angles</figDesc>
+            </figure>
+            <p>Let C be the Center of the Earth, CR the ſemidiame<g ref="char:EOLhyphen"/>ter, R a point in the ſuperficies intimating the place of obſervation. OAB the ſuperficies of the Atmoſphere, HOR the ſenſible Horizon, DC the true Horizon: ſo that when the Sun is ſeene from R by O in H, he is not in H but in S for the beames of the Sun emitted from S and falling upon O the ſuperficis of the Atmoſphere, pro<g ref="char:EOLhyphen"/>ceed not on in the line OA, but are refracted in O, the point refringent and paſſe through the diaphanous At<g ref="char:EOLhyphen"/>moſphere, in the line OR which is a part of the ſenſible Horizon, and ſo appeares the Sun in H when indeed hee is but in S, and lower then the ſenſible Horizon by the quantity of the angle HRS, which is by <hi>Tycho</hi> aſlumed 34 min. But as it is not HR but DC which is the true Horizon, ſo likewiſe is it not the angle HRS but DCS which is the Suns depreſſion or inferiour diſtance form the Horizon. To find which, conſider that if from the arch HDS which ſubtends the angle of refraction HRS you ſubtract HD the remainer will be DS ſubtending the angle DCS. Now HCD being (the Suns Horizon<g ref="char:EOLhyphen"/>tall Parallax) according to <hi>Tycho</hi> 3. min. ſubtracted from the angle of Refraction HCS which is ſufficiently equall to HRS, leaves the angle DCS the Suns depreſ<g ref="char:EOLhyphen"/>ſion
+<pb n="37" facs="tcp:169851:24"/>below the Horizon at what time hee appeared ther<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n. And he that ſhall from this Depreſſion, and the lati<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ude I uſed, proceed to finde the hour of the day, and the Cuſpes of the 12. houſes, I beleeve will not finde them much different from what I ſet down. Onely in the cuſpes of the eleventh and fift houſes. 17. degrees is but in ſtead of 7. by ſome miſtake of the Cutter, or otherwiſe the minutes agreeing exactly.</p>
+            <p>Thus much I thought it not amiſſe to certifie concer<g ref="char:EOLhyphen"/>ning that fiigure, leaſt any ſhould paſſe an overhaſty Cenſure thereupon, and either condemne my unknown ſelfe of ignorance, or traduce the approbation of Maſter <hi>Lilly,</hi> whoſe worthy performances have ſo much dignifi<g ref="char:EOLhyphen"/>ed theſe Sciences, and ſtill beene able to confront Envie in her moſt peſtiferous furniture.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:169851:25"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <item>
+                  <hi>CHap. 1.</hi> The occaſion of this Diſcourſe, <hi>page 1</hi>
+               </item>
+               <item>
+                  <hi>Chap. 2.</hi> An errour in finding out the Domi<g ref="char:EOLhyphen"/>nicall Letter and Epact in the Forraign Accompt perpetually, detected, <hi>pag. 4</hi>
+               </item>
+               <item>
+                  <hi>Chap. 3.</hi> The inequality of the preceſſion of the Equi<g ref="char:EOLhyphen"/>noctiall points examined, <hi>pag. 6</hi>
+               </item>
+               <item>
+                  <hi>Chap. 4.</hi> Of the Sun and Moons Tables, <hi>pag. 12</hi>
+               </item>
+               <item>
+                  <hi>Chap. 5.</hi> Whether the ſecond inequality of the Moon have dependance of the Suns mean or true, and ap<g ref="char:EOLhyphen"/>parent place, <hi>pag. 14</hi>
+               </item>
+               <item>
+                  <hi>Chap. 6.</hi> A demonſtrative examination of our Au<g ref="char:EOLhyphen"/>thors Tables of Eclipſes, <hi>pag. 17</hi>
+               </item>
+               <item>
+                  <hi>Chap. 7.</hi> Of the aequation of Naturall Dayes, <hi>pag. 29</hi>
+               </item>
+               <item>
+                  <hi>Chap. 9.</hi> Our Authors determination of the diſtance of Caelestiall bodies from the earth examined, <hi>pag. 30</hi>
+               </item>
+               <item>
+                  <hi>Chap. 9.</hi> A brief ſummary of ſome other Defects and Imperfections, <hi>pag. 31</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
